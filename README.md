@@ -8,7 +8,7 @@
 </a>
 
 <a href="mailto:a7medelgohary@gmail.com">
-    <img src="8743964.png" alt="Email Icon" width="100" height="50">
+    <img src="8743964.png" alt="Email Icon" width="50" height="50">
 </a>
 
 
