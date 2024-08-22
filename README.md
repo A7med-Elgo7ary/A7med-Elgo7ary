@@ -18,7 +18,7 @@
 </blockquote>
 
 
-<hr style="border: 0; height: 2px; background-color: #ff5733; width: 50%;">
+<hr style="border: 1; height: 1px; background-color: #ff5733; width: 10%;">
 
 
 
