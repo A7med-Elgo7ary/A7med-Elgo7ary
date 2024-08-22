@@ -19,8 +19,9 @@
 <table>
   <tr>
     <td style="width: 50%; vertical-align: top;">
-      <p>This is the first column. You can add text, images, or other elements here.</p>
-      <img src="https://via.placeholder.com/150" alt="Placeholder Image" style="width: 100%;">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=130976&width=800&height=40&lines=Hallo+Genie.%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Mein+Name+ist+Ahmed+El-Gohary.;Ich+setze+meine+fantasie+auf+den+Mars.%F0%9F%9A%80+;+Der+Fingerabdruch+ist+nich+unser+weg+.%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=2000&color=F72EDE&multiline=true&width=700&height=110&lines=Embedded+System+Software+Engineer.;Skilled+in+AI%2C+Machine+Learning+and+Data+Science.+;Passionate+about+AI+and+Robotics.+;Dedicated+to+pushing+innovation+boundaries+in+technology.)](https://git.io/typing-svg)
+
     </td>
     <td style="width: 50%; vertical-align: top;">
       <p>This is the second column. Similarly, you can add more content here.</p>
