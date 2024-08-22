@@ -25,7 +25,7 @@
   </a>
    <br>
   <a href="https://www.kaggle.com/a7medelgo7ary" target="_blank">
-    <img src="Kaggle_Logo_black.png" alt="WhatsApp Icon" width="40" height="40">
+    <img src="Kaggle_Logo_black.png" alt="WhatsApp Icon" width="35" height="35">
   </a>
 </td>
 
