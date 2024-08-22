@@ -8,7 +8,7 @@
 </a>
 
 <a href="mailto:a7medelgohary@gmail.com">
-    <img src="https://www.google.com/imgres?q=email%20icon&imgurl=https%3A%2F%2Fassets.stickpng.com%2Fimages%2F584856bce0bb315b0f7675ad.png&imgrefurl=https%3A%2F%2Fwww.stickpng.com%2Fimg%2Ficons-logos-emojis%2Femail-icons%2Femail-icon-blue&docid=Ag-LUCr3owcBrM&tbnid=kAmiLE_NajwW1M&vet=12ahUKEwiD6OTWjImIAxUfQ6QEHf9vGU0QM3oECDUQAA..i&w=2400&h=2400&hcb=2&ved=2ahUKEwiD6OTWjImIAxUfQ6QEHf9vGU0QM3oECDUQAA" alt="Email Icon" width="100" height="50">
+    <img src="" alt="Email Icon" width="100" height="50">
 </a>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=2000&color=E4F72E&background=32AEFF00&width=50&lines=%F0%9F%93%A7+)](mailto:a7medelgohary@gmail.com)
@@ -35,3 +35,4 @@
  <img alt="YOUR-ALT-TEXT" src="">
 </picture>
  
+https://www.google.com/imgres?q=email%20icon&imgurl=https%3A%2F%2Fassets.stickpng.com%2Fimages%2F584856bce0bb315b0f7675ad.png&imgrefurl=https%3A%2F%2Fwww.stickpng.com%2Fimg%2Ficons-logos-emojis%2Femail-icons%2Femail-icon-blue&docid=Ag-LUCr3owcBrM&tbnid=kAmiLE_NajwW1M&vet=12ahUKEwiD6OTWjImIAxUfQ6QEHf9vGU0QM3oECDUQAA..i&w=2400&h=2400&hcb=2&ved=2ahUKEwiD6OTWjImIAxUfQ6QEHf9vGU0QM3oECDUQAA
