@@ -36,7 +36,6 @@
 
 
 
-<hr style="border: 1; height: 1px; background-color: #ff5733; width: 10%;">
 
 <blockquote style="font-size: 50px; font-weight: bold; color:#123123;">
    If We Pull Together And Commit Ourselves, Then We Can Push Through Anything.
