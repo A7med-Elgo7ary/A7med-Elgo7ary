@@ -11,6 +11,7 @@
     <img src="https://assets.stickpng.com/images/584856bce0bb315b0f7675ad.png" alt="Email Icon" width="100" height="100">
 </a>
 
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=2000&color=E4F72E&background=32AEFF00&width=50&lines=%F0%9F%93%A7+)](mailto:a7medelgohary@gmail.com)
 
 ---
