@@ -1,7 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=130976&width=800&height=40&lines=Hallo+Genie.%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Mein+Name+ist+Ahmed+El-Gohary.;Ich+setze+meine+fantasie+auf+den+Mars.%F0%9F%9A%80+;+Der+Fingerabdruch+ist+nich+unser+weg+.%E2%9C%A8)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=2000&color=F72EDE&multiline=true&width=700&height=110&lines=Embedded+System+Software+Engineer.;Skilled+in+AI%2C+Machine+Learning+and+Data+Science.+;Passionate+about+AI+and+Robotics.+;Dedicated+to+pushing+innovation+boundaries+in+technology.)](https://git.io/typing-svg)
 
----
+<hr style="border: 1; height: 1px; background-color: #ff5733; width: 10%;">
+
+
+
 <a href="https://www.linkedin.com/in/a7med-elgo7ary">
     <img src="Linkedin-Logo.jpg" alt="LinkedIn Profile" width="120" height="40">
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -12,13 +15,18 @@
     <img src="whatsApp_Logo.jpeg" alt="WhatsApp Icon" width="45" height="45">
 </a>
 
----
+
+
+<hr style="border: 1; height: 1px; background-color: #ff5733; width: 10%;">
+
+
+
 <blockquote style="font-size: 50px; font-weight: bold; color:#123123;">
    If We Pull Together And Commit Ourselves, Then We Can Push Through Anything.
 </blockquote>
 
 
-<hr style="border: 1; height: 1px; background-color: #ff5733; width: 10%;">
+
 
 
 
