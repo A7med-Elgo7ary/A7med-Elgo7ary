@@ -4,13 +4,13 @@
 
 
 <a href="https://www.linkedin.com/in/a7med-elgo7ary">
-    <img src="Linkedin-Logo.jpg" alt="LinkedIn Profile" width="90" height="50">
+    <img src="Linkedin-Logo.jpg" alt="LinkedIn Profile" width="45" height="25">
 </a>
 
 
 
 <a href="mailto:a7medelgohary@gmail.com">
-    <img src="Email_logo.png" alt="Email Icon" width="50" height="50">
+    <img src="Email_logo.png" alt="Email Icon" width="25" height="25">
 </a>
 
 
