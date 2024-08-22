@@ -29,6 +29,9 @@
 
 </details>
 
+<blockquote style="font-size: 50px; font-weight: bold; color:#123123;">
+   If We Pull Together And Commit Ourselves, Then We Can Push Through Anything.
+</blockquote>
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="">
