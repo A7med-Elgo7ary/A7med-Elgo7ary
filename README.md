@@ -10,20 +10,21 @@
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=2000&color=F72EDE&multiline=true&width=700&height=110&lines=Embedded+System+Software+Engineer.;Skilled+in+AI%2C+Machine+Learning+and+Data+Science.+;Passionate+about+AI+and+Robotics.+;Dedicated+to+pushing+innovation+boundaries+in+technology." alt="Typing SVG">
       </a>
     </td>
-    <td style="width: 50%; vertical-align: top;">
-      <!-- Contact Icons -->
-      <a href="https://www.linkedin.com/in/a7med-elgo7ary">
-        <img src="Linkedin-Logo.jpg" alt="LinkedIn Profile" width="120" height="40">
-      </a>
-      <br><br>
-      <a href="mailto:a7medelgohary@gmail.com">
-        <img src="Email_logo.png" alt="Email Icon" width="43" height="43">
-      </a>
-      <br><br>
-      <a href="https://wa.me/201009515837" target="_blank">
-        <img src="whatsApp_Logo.jpeg" alt="WhatsApp Icon" width="45" height="45">
-      </a>
-    </td>
+    <td style="width: 50%; vertical-align: top; text-align: center;">
+  <!-- Contact Icons -->
+  <a href="https://www.linkedin.com/in/a7med-elgo7ary">
+    <img src="Linkedin-Logo.jpg" alt="LinkedIn Profile" width="120" height="40">
+  </a>
+  <br><br>
+  <a href="mailto:a7medelgohary@gmail.com">
+    <img src="Email_logo.png" alt="Email Icon" width="43" height="43">
+  </a>
+  <br><br>
+  <a href="https://wa.me/201009515837" target="_blank">
+    <img src="whatsApp_Logo.jpeg" alt="WhatsApp Icon" width="45" height="45">
+  </a>
+</td>
+
   </tr>
 </table>
 
