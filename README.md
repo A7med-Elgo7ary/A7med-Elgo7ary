@@ -14,7 +14,7 @@
 
 ---
 <blockquote style="font-size: 20px;">
-    >If we pull together and commit ourselves, then we can push through anything.
+    If we pull together and commit ourselves, then we can push through anything.
 </blockquote>
 
 
