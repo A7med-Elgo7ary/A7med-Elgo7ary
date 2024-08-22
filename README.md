@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=2000&color=F72EDE&multiline=true&width=700&height=135&lines=Embedded+System+Software+Engineer.;Skilled+in+AI%2C+Machine+Learning+and+Data+Science.+;Passionate+about+AI+and+Robotics.+;Dedicated+to+pushing+innovation+boundaries+in+technology.)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=2000&color=E4F72E&background=32AEFF00&width=50&lines=%F0%9F%93%A7+)](https://www.linkedin.com/in/a7med-elgo7ary)
- [](mailto:your-email@example.com) https://www.google.com/url?sa=i&url=https%3A%2F%2Flogos-world.net%2Flinkedin-logo%2F&psig=AOvVaw3ImAwa8hzpUtVf16J4QUCF&ust=1724431229999000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCND6wImFiYgDFQAAAAAdAAAAABAP(https://www.linkedin.com/in/yourprofile).
+ [](mailto:your-email@example.com) [ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=2000&color=E4F72E&background=32AEFF00&width=50&lines=%F0%9F%93%A7+)](https://www.linkedin.com/in/a7med-elgo7ary)](https://www.linkedin.com/in/yourprofile).
 
 
 ---
