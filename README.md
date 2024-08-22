@@ -12,12 +12,6 @@
     <img src="whatsApp_Logo.jpeg" alt="WhatsApp Icon" width="45" height="45">
 </a>
 
-
-
-
-
-
-
 ---
 > If we pull together and commit ourselves, then we can push through anything.
 
@@ -35,9 +29,9 @@
 
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://www.google.com/imgresq=email%20icon&imgurl=https%3A%2F%2Fassets.stickpng.com%2Fimages%2F584856bce0bb315b0f7675ad.png&imgrefurl=https%3A%2F%2Fwww.stickpng.com%2Fimg%2Ficons-logos-emojis%2Femail-icons%2Femail-icon-blue&docid=Ag-LUCr3owcBrM&tbnid=kAmiLE_NajwW1M&vet=12ahUKEwiD6OTWjImIAxUfQ6QEHf9vGU0QM3oECDUQAA..i&w=2400&h=2400&hcb=2&ved=2ahUKEwiD6OTWjImIAxUfQ6QEHf9vGU0QM3oECDUQAA">
- <source media="(prefers-color-scheme: light)" srcset="https://www.google.com/imgresq=email%20icon&imgurl=https%3A%2F%2Fassets.stickpng.com%2Fimages%2F584856bce0bb315b0f7675ad.png&imgrefurl=https%3A%2F%2Fwww.stickpng.com%2Fimg%2Ficons-logos-emojis%2Femail-icons%2Femail-icon-blue&docid=Ag-LUCr3owcBrM&tbnid=kAmiLE_NajwW1M&vet=12ahUKEwiD6OTWjImIAxUfQ6QEHf9vGU0QM3oECDUQAA..i&w=2400&h=2400&hcb=2&ved=2ahUKEwiD6OTWjImIAxUfQ6QEHf9vGU0QM3oECDUQAA">
- <img alt="https://www.google.com/imgresq=email%20icon&imgurl=https%3A%2F%2Fassets.stickpng.com%2Fimages%2F584856bce0bb315b0f7675ad.png&imgrefurl=https%3A%2F%2Fwww.stickpng.com%2Fimg%2Ficons-logos-emojis%2Femail-icons%2Femail-icon-blue&docid=Ag-LUCr3owcBrM&tbnid=kAmiLE_NajwW1M&vet=12ahUKEwiD6OTWjImIAxUfQ6QEHf9vGU0QM3oECDUQAA..i&w=2400&h=2400&hcb=2&ved=2ahUKEwiD6OTWjImIAxUfQ6QEHf9vGU0QM3oECDUQAA" src="https://www.google.com/imgresq=email%20icon&imgurl=https%3A%2F%2Fassets.stickpng.com%2Fimages%2F584856bce0bb315b0f7675ad.png&imgrefurl=https%3A%2F%2Fwww.stickpng.com%2Fimg%2Ficons-logos-emojis%2Femail-icons%2Femail-icon-blue&docid=Ag-LUCr3owcBrM&tbnid=kAmiLE_NajwW1M&vet=12ahUKEwiD6OTWjImIAxUfQ6QEHf9vGU0QM3oECDUQAA..i&w=2400&h=2400&hcb=2&ved=2ahUKEwiD6OTWjImIAxUfQ6QEHf9vGU0QM3oECDUQAA">
+ <source media="(prefers-color-scheme: dark)" srcset="">
+ <source media="(prefers-color-scheme: light)" srcset=">
+ <img alt="" src="https://www.google.com/imgresq=email%20icon&imgurl=https%3A%2F%2Fassets.stickpng.com%2Fimages%2F584856bce0bb315b0f7675ad.png&imgrefurl=https%3A%2F%2Fwww.stickpng.com%2Fimg%2Ficons-logos-emojis%2Femail-icons%2Femail-icon-blue&docid=Ag-LUCr3owcBrM&tbnid=kAmiLE_NajwW1M&vet=12ahUKEwiD6OTWjImIAxUfQ6QEHf9vGU0QM3oECDUQAA..i&w=2400&h=2400&hcb=2&ved=2ahUKEwiD6OTWjImIAxUfQ6QEHf9vGU0QM3oECDUQAA">
 </picture>
  
 
