@@ -15,6 +15,7 @@
       <a href="https://www.linkedin.com/in/a7med-elgo7ary">
         <img src="Linkedin_Logo_black.png" alt="LinkedIn Profile" width="40" height="40">
       </a>
+      <hr style="border: 1; height: 1px; background-color: #ff5733; width: 10%;">
       <br>
       <a href="mailto:a7medelgo7ry@gmail.com">
         <img src="Email_Logo_black.jpg" alt="Email Icon" width="40" height="40">
