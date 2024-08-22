@@ -15,15 +15,15 @@
   <a href="https://www.linkedin.com/in/a7med-elgo7ary">
     <img src="Linkedin_Logo_black.png" alt="LinkedIn Profile" width="40" height="40">
   </a>
-  <br><br>
+  <br>
   <a href="mailto:a7medelgohary@gmail.com">
     <img src="Email_Logo_black.jpg" alt="Email Icon" width="40" height="40">
   </a>
-  <br><br>
+  <br>
   <a href="https://wa.me/201009515837" target="_blank">
     <img src="whatsApp_Logo_black.png" alt="WhatsApp Icon" width="40" height="40">
   </a>
-   <br><br>
+   <br>
   <a href="https://www.kaggle.com/a7medelgo7ary" target="_blank">
     <img src="Kaggle_Logo_black.png" alt="WhatsApp Icon" width="40" height="40">
   </a>
