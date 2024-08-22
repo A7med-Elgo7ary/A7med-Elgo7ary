@@ -6,7 +6,7 @@
     <img src="Linkedin-Logo.jpg" alt="LinkedIn Profile" width="120" height="40">
 </a>&nbsp;&nbsp;&nbsp;
 <a href="mailto:a7medelgohary@gmail.com">
-    <img src="Email_logo.png" alt="Email Icon" width="40" height="40">
+    <img src="Email_logo.png" alt="Email Icon" width="43" height="43">
 </a>&nbsp;&nbsp;&nbsp;
 <a href="https://wa.me/201009515837" target="_blank">
     <img src="whatsApp_Logo.jpeg" alt="WhatsApp Icon" width="45" height="45">
