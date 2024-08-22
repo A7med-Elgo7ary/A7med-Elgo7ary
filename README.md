@@ -3,6 +3,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=2000&color=E4F72E&background=32AEFF00&width=50&lines=%F0%9F%93%A7+)](a7medelgo7ry@gmail.com)
 
+<a href="https://www.linkedin.com/in/a7med-elgo7ary">
+    <img src="https://github.com/user-attachments/assets/cb57092c-7443-4d26-bc0a-a824714ef175" alt="LinkedIn Profile" width="100" height="50">
+</a>
 
 [![image](https://github.com/user-attachments/assets/cb57092c-7443-4d26-bc0a-a824714ef175)](https://www.linkedin.com/in/a7med-elgo7ary).
 
