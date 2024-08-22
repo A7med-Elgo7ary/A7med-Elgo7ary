@@ -1,1 +1,2 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=700&size=28&pause=1000&color=504CF7&center=true&vCenter=true&width=442&lines=Welcome+Everyone+)](https://git.io/typing-svg)
+[[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=700&size=28&pause=1000&color=504CF7&center=true&vCenter=true&width=442&lines=Welcome+Everyone+)](https://git.io/typing-svg)
+](https://readme-typing-svg.demolab.com/demo/?color=8267F7&center=true&vCenter=true&lines=Mein+Name+ist+Ahmed+El-Gohary;Embedded+System+Software+Engineer.;skilled+in+AI+and+Data+Science.++;Passionate+about+AI+and+Robotics.;+Dedicated+to+pushing+innovation+boundaries+in+technology.)
