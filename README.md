@@ -17,14 +17,15 @@
 </a>
 
 
-<div style="display: flex; justify-content: space-between;">
-    <div style="flex: 1; padding: 10px;">
-        <p>This is the first column.</p>
+<div style="display: flex;">
+    <div style="flex: 2; padding: 10px;">
+        <p>This is the first column with more width.</p>
     </div>
     <div style="flex: 1; padding: 10px;">
-        <p>This is the second column.</p>
+        <p>This is the second column with less width.</p>
     </div>
 </div>
+
 
 
 
