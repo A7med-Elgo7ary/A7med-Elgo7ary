@@ -4,7 +4,7 @@
 
 
 <a href="https://www.linkedin.com/in/a7med-elgo7ary">
-    <img src="https://github.com/user-attachments/assets/cb57092c-7443-4d26-bc0a-a824714ef175" alt="LinkedIn Profile" width="100" height="70">
+    <img src="Linkedin-Logo.jpg" alt="LinkedIn Profile" width="100" height="70">
 </a>
 
 <a href="mailto:a7medelgohary@gmail.com">
