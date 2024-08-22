@@ -11,9 +11,9 @@
 
 | Rank | Languages |
 |-----:|-----------|
-|     1| C         |
-|     2| C++       |
-|     3| PYTHON    |
+|     1|    C      |
+|     2|   C++     |
+|     3|  PYTHON   |
 
 </details>
 
