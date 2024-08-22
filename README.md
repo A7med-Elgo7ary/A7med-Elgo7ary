@@ -13,7 +13,7 @@
 </a>
 
 ---
-<blockquote style="font-size: 20px;">
+<blockquote style="font-size: 30px;">
     If we pull together and commit ourselves, then we can push through anything.
 </blockquote>
 
