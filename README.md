@@ -5,7 +5,6 @@
 ---
 > If we pull together and commit ourselves, then we can push through anything.
 
-— Mona the Octocat
 
 
 <picture>
@@ -20,9 +19,9 @@
 
 | Rank | Languages |
 |-----:|-----------|
-|     1| JavaScript|
-|     2| Python    |
-|     3| SQL       |
+|     1| C         |
+|     2| C++       |
+|     3| PYTHON       |
 
 </details>
 
