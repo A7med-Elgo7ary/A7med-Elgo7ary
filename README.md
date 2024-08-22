@@ -3,10 +3,10 @@
 
 ---
 <a href="https://www.linkedin.com/in/a7med-elgo7ary">
-    <img src="Linkedin-Logo.jpg" alt="LinkedIn Profile" width="90" height="25">
+    <img src="Linkedin-Logo.jpg" alt="LinkedIn Profile" width="110" height="30">
 </a>&nbsp;&nbsp;&nbsp;
 <a href="mailto:a7medelgohary@gmail.com">
-    <img src="Email_logo.png" alt="Email Icon" width="30" height="30">
+    <img src="Email_logo.png" alt="Email Icon" width="40" height="40">
 </a>
 
 
