@@ -26,8 +26,8 @@
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://www.google.com/url?sa=i&url=https%3A%2F%2Flogos-world.net%2Flinkedin-logo%2F&psig=AOvVaw3ImAwa8hzpUtVf16J4QUCF&ust=1724431229999000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCND6wImFiYgDFQAAAAAdAAAAABAP">
  <source media="(prefers-color-scheme: light)" srcset="https://www.google.com/url?sa=i&url=https%3A%2F%2Flogos-world.net%2Flinkedin-logo%2F&psig=AOvVaw3ImAwa8hzpUtVf16J4QUCF&ust=1724431229999000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCND6wImFiYgDFQAAAAAdAAAAABAP">
- <img alt="YOUR-ALT-TEXT" src="![image](https://github.com/user-attachments/assets/cb57092c-7443-4d26-bc0a-a824714ef175)">
+ <img alt="YOUR-ALT-TEXT" src="">
 </picture>
  
 
-
+![image](https://github.com/user-attachments/assets/cb57092c-7443-4d26-bc0a-a824714ef175)
