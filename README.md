@@ -12,7 +12,7 @@
 </a>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=2000&color=E4F72E&background=32AEFF00&width=50&lines=%F0%9F%93%A7+)](mailto:a7medelgohary@gmail.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=2000&color=E4F72E&background=32AEFF00&width=50&lines=Email_logo.png)](mailto:a7medelgohary@gmail.com)
 
 ---
 > If we pull together and commit ourselves, then we can push through anything.
