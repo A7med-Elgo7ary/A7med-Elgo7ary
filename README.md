@@ -17,7 +17,9 @@
     If we pull together and commit ourselves, then we can push through anything.
 </blockquote>
 
-
+<p style="font-size: 30px; font-weight: bold; color: #ff5733;">
+    If we pull together and commit ourselves, then we can push through anything.
+</p>
 
 <details>
 <summary>My top languages</summary>
