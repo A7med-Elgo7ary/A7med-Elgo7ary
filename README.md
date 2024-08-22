@@ -28,7 +28,6 @@
       <a href="https://www.kaggle.com/a7medelgo7ary" target="_blank">
         <img src="Kaggle_Logo_black.png" alt="Kaggle Icon" width="35" height="35">
       </a>
-       <hr style="border: .5; height: .5px; background-color: #ff5733; width: 1%;">
     </td>
   </tr>
 </table>
