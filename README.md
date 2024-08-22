@@ -11,6 +11,7 @@
 <a href="https://wa.me/201009515837" target="_blank">
     <img src="whatsApp_Logo.jpeg" alt="WhatsApp Icon" width="45" height="45">
 </a>
+
 ---
 <blockquote style="font-size: 50px; font-weight: bold; color:#123123;">
    If We Pull Together And Commit Ourselves, Then We Can Push Through Anything.
