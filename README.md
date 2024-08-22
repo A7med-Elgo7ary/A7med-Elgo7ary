@@ -9,13 +9,14 @@
       <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=2000&color=F72EDE&multiline=true&width=700&height=110&lines=Embedded+System+Software+Engineer.;Skilled+in+AI%2C+Machine+Learning+and+Data+Science.+;Passionate+about+AI+and+Robotics.+;Dedicated+to+pushing+innovation+boundaries+in+technology." alt="Typing SVG">
       </a>
+       <hr style="border: .5; height: .5px; background-color: #ff5733; width: 1%;">
     </td>
     <td style="width: 50%; vertical-align: top; text-align: center;">
       <!-- Contact Icons -->
       <a href="https://www.linkedin.com/in/a7med-elgo7ary">
         <img src="Linkedin_Logo_black.png" alt="LinkedIn Profile" width="40" height="40">
       </a>
-      <hr style="border: .5; height: .5px; background-color: #ff5733; width: 1%;">
+      <br>
       <a href="mailto:a7medelgo7ry@gmail.com">
         <img src="Email_Logo_black.jpg" alt="Email Icon" width="40" height="40">
       </a>
@@ -27,6 +28,7 @@
       <a href="https://www.kaggle.com/a7medelgo7ary" target="_blank">
         <img src="Kaggle_Logo_black.png" alt="Kaggle Icon" width="35" height="35">
       </a>
+       <hr style="border: .5; height: .5px; background-color: #ff5733; width: 1%;">
     </td>
   </tr>
 </table>
