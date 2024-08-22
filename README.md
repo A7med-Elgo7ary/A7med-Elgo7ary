@@ -17,6 +17,14 @@
 </a>
 
 
+<div style="display: flex; justify-content: space-between;">
+    <div style="flex: 1; padding: 10px;">
+        <p>This is the first column.</p>
+    </div>
+    <div style="flex: 1; padding: 10px;">
+        <p>This is the second column.</p>
+    </div>
+</div>
 
 
 
