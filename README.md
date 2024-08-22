@@ -13,13 +13,10 @@
 </a>
 
 ---
-<blockquote style="font-size: 50px; font-weight: bold; color: red;">
+<blockquote style="font-size: 50px; font-weight: bold; color:#123123;">
    If we pull together and commit ourselves, then we can push through anything.
 </blockquote>
 
-<p style="font-size: 30px; font-weight: bold; color: Red;">
-    If we pull together and commit ourselves, then we can push through anything.
-</p>
 
 <details>
 <summary>My top languages</summary>
