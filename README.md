@@ -16,15 +16,19 @@
     <img src="whatsApp_Logo.jpeg" alt="WhatsApp Icon" width="45" height="45">
 </a>
 
+<table>
+  <tr>
+    <td style="width: 50%; vertical-align: top;">
+      <p>This is the first column. You can add text, images, or other elements here.</p>
+      <img src="https://via.placeholder.com/150" alt="Placeholder Image" style="width: 100%;">
+    </td>
+    <td style="width: 50%; vertical-align: top;">
+      <p>This is the second column. Similarly, you can add more content here.</p>
+      <img src="https://via.placeholder.com/150" alt="Placeholder Image" style="width: 100%;">
+    </td>
+  </tr>
+</table>
 
-<div style="display: flex;">
-    <div style="flex: 2; padding: 10px;">
-        <p>This is the first column with more width.</p>
-    </div>
-    <div style="flex: 1; padding: 10px;">
-        <p>This is the second column with less width.</p>
-    </div>
-</div>
 
 
 
