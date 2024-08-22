@@ -18,7 +18,7 @@
 
 
 
-<hr style="border: 1; height: 1px; background-color: #ff5733; width: 10%;">
+
 
 
 
