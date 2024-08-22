@@ -6,14 +6,6 @@
 > If we pull together and commit ourselves, then we can push through anything.
 
 
-
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
-</picture>
-
-
 <details>
 <summary>My top languages</summary>
 
@@ -21,7 +13,16 @@
 |-----:|-----------|
 |     1| C         |
 |     2| C++       |
-|     3| PYTHON       |
+|     3| PYTHON    |
 
 </details>
+
+<!-- 
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
+ <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+</picture>
+ -->
+
 
