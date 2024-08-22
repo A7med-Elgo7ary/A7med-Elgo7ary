@@ -16,7 +16,7 @@
         <img src="Linkedin_Logo_black.png" alt="LinkedIn Profile" width="40" height="40">
       </a>
       <br>
-      <a href="mailto:a7medelgohary@gmail.com">
+      <a href="mailto:a7medelgo7ry@gmail.com">
         <img src="Email_Logo_black.jpg" alt="Email Icon" width="40" height="40">
       </a>
       <br>
