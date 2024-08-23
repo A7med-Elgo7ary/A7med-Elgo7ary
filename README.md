@@ -96,6 +96,49 @@
 
 
 
+
+
+<!-- Badges Row -->
+<p align="center">
+  <img src="https://img.shields.io/badge/stars-4.8k-brightgreen.svg" alt="Stars" />
+  <img src="https://img.shields.io/badge/license-Apache--2.0-blue.svg" alt="License" />
+  <img src="https://img.shields.io/badge/issues-22%20open-orange.svg" alt="Issues" />
+  <img src="https://img.shields.io/badge/forks-2k-blue.svg" alt="Forks" />
+  <img src="https://img.shields.io/badge/Vector%20search%20by-Qdrant-ff69b4.svg" alt="Qdrant" />
+</p>
+
+<!-- Buttons Row -->
+<p align="center">
+  <a href="https://discord.com/">
+    <img src="https://img.shields.io/badge/Join%20Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Join Discord" />
+  </a>
+  <a href="https://www.resumematcher.fyi/">
+    <img src="https://img.shields.io/badge/www.resumematcher.fyi-yellow?style=for-the-badge" alt="Resume Matcher" />
+  </a>
+  <a href="https://streamlit.io/">
+    <img src="https://img.shields.io/badge/Live%20Demo%20on%20Streamlit-FF2D20?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo on Streamlit" />
+  </a>
+</p>
+
+<!-- Single Button Row -->
+<p align="center">
+  <a href="https://docs.resumematcher.fyi/">
+    <img src="https://img.shields.io/badge/Checkout%20Resume%20Matcher%20Docs-red?style=for-the-badge" alt="Resume Matcher Docs" />
+  </a>
+</p>
+
+<!-- Product Hunt Badge -->
+<p align="center">
+  <a href="https://www.producthunt.com/posts/resume-matcher">
+    <img src="https://img.shields.io/badge/Product%20Hunt-red?style=for-the-badge&logo=product-hunt&logoColor=white" alt="Product Hunt" />
+  </a>
+</p>
+
+
+
+
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=1000&pause=400&color=BFF749&center=true&vCenter=true&multiline=true&width=1000&height=40&lines=CONTINUE+%F0%9F%A4%8C)](https://www.linkedin.com/in/a7med-elgo7ary)
 
 <!-- Adjust appearance based on GitHub theme -->
