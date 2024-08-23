@@ -36,7 +36,7 @@
       </a>
       <br>
       <a href="mailto:a7medelgo7ry@gmail.com">
-        <img src="Email.svg" alt="Email Icon" width="45" height="45">
+        <img src="Email.svg" alt="Email Icon" width="30" height="30">
       </a>
       <br>
       <br>
