@@ -85,9 +85,7 @@
 <details>
   <summary style="font-size: 20px; font-weight: bold;">
     <blockquote style="font-size: 50px; font-weight: bold; color:#123123;">
-      <a href="javascript:void(0);" onclick="document.getElementById('myDetails').open = true;">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=2000&color=F72EDE&multiline=true&width=700&height=35&lines=Die+Fantasie+beginnt+%F0%9F%92%AB" alt="Typing SVG" />
-      </a>
     </blockquote>
   </summary>
   <table>
