@@ -9,7 +9,7 @@
       <a href="https://www.linkedin.com/in/a7med-elgo7ary">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=2000&color=F72EDE&multiline=true&width=700&height=110&lines=Embedded+System+Software+Engineer.;Skilled+in+AI%2C+Machine+Learning+and+Data+Science.+;Passionate+about+AI+and+Robotics.+;Dedicated+to+pushing+innovation+boundaries+in+technology." alt="Typing SVG">
       </a>
-       <hr style="border: .5; height: .5px; background-color: #ff5733; width: 1%;">
+      <hr style="border: .5; height: .5px; background-color: #ff5733; width: 1%;">
     </td>
     <td style="width: 50%; vertical-align: top; text-align: center;">
       <!-- Contact Icons -->
@@ -32,19 +32,9 @@
   </tr>
 </table>
 
-
-
-
-
-
 <blockquote style="font-size: 50px; font-weight: bold; color:#123123;">
    If We Pull Together And Commit Ourselves, Then We Can Push Through Anything.
 </blockquote>
-
-
-
-
-
 
 <details>
 <summary>My top languages</summary>
@@ -59,3 +49,28 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=1000&pause=400&color=BFF749&center=true&vCenter=true&multiline=true&width=1000&height=40&lines=CONTINUE+%F0%9F%A4%8C)](https://www.linkedin.com/in/a7med-elgo7ary)
 
+<!-- Adjust appearance based on GitHub theme -->
+<style>
+@media (prefers-color-scheme: dark) {
+    blockquote {
+        color: #ffffff;
+    }
+    hr {
+        background-color: #ffffff;
+    }
+    img {
+        filter: brightness(0) invert(1);
+    }
+}
+@media (prefers-color-scheme: light) {
+    blockquote {
+        color: #123123;
+    }
+    hr {
+        background-color: #ff5733;
+    }
+    img {
+        filter: none;
+    }
+}
+</style>
