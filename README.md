@@ -44,7 +44,7 @@
       </a>
       <br>
       <a href="https://www.kaggle.com/a7medelgo7ary" target="_blank">
-        <img src="Kaggle_Logo_black.png" alt="Kaggle Icon" width="45" height="45">
+        <img src="Kaggle_Logo_black.png" alt="Kaggle Icon" width="30" height="30">
       </a>
     </td>
     
