@@ -60,6 +60,12 @@
 
 
 
+
+
+
+
+
+
 <details>
   <summary style="font-size: 20px; font-weight: bold;">Programming Language</summary>
   <a href="https://www.linkedin.com/in/a7med-elgo7ary"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=15&pause=5000&color=53C8FF&multiline=true&width=700&height=30&lines=+++Thinking+++Imagining+++coffee+mixing+++coding." alt="Typing SVG" /></a> 
@@ -98,9 +104,15 @@
 
 
 
+
+
+
+
+
+
 <!-- Badges Row -->
 <p align="center">
-  <img src="https://img.shields.io/badge/stars-4.8k-brightgreen.svg" alt="Stars" />
+  <img src="https://img.shields.io/badge/stars-5k-brightgreen.svg" alt="Stars" />
   <img src="https://img.shields.io/badge/license-Apache--2.0-blue.svg" alt="License" />
   <img src="https://img.shields.io/badge/issues-22%20open-orange.svg" alt="Issues" />
   <img src="https://img.shields.io/badge/forks-2k-blue.svg" alt="Forks" />
@@ -133,6 +145,13 @@
     <img src="https://img.shields.io/badge/Product%20Hunt-red?style=for-the-badge&logo=product-hunt&logoColor=white" alt="Product Hunt" />
   </a>
 </p>
+
+
+
+
+
+
+
 
 
 
