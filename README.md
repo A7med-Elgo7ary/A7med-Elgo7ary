@@ -26,7 +26,7 @@
       </a>
       <br>
       <a href="https://www.linkedin.com/in/a7med-elgo7ary" target="_blank">
-        <img src="Instagram.svg" alt="instagram Icon" width="50" height="50">
+        <img src="Instagram.svg" alt="instagram Icon" width="60" height="60">
       </a>
     </td>
     <td style="width: 50%; vertical-align: top; text-align: center;">
