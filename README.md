@@ -26,7 +26,7 @@
       </a>
       <br>
       <a href="https://www.kaggle.com/a7medelgo7ary" target="_blank">
-        <img src="Instgram.svg" alt="Kaggle Icon" width="35" height="35">
+        <img src="Instagram.svg" alt="Kaggle Icon" width="35" height="35">
       </a>
     </td>
     <td style="width: 50%; vertical-align: top; text-align: center;">
