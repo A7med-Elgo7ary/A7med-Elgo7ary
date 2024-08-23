@@ -1,7 +1,6 @@
 - 🔭   &nbsp; &emsp;   🌱    &nbsp;&emsp;   👯   &nbsp;&emsp;    🤔   &nbsp;&emsp;    💬   &nbsp;&emsp;    📫   &nbsp;&emsp;    😄    &nbsp;&emsp;   ⚡
-  ___
-  ---
-  ***
+- ___
+  
 
 
 <table>
