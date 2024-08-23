@@ -62,13 +62,6 @@
 
 <details>
 <summary>My top languages</summary>
-
-| Rank | Languages |
-|-----:|-----------|
-|     1|    C      |
-|     2|   C++     |
-|     3|  PYTHON   |
-
 <table>
   <tr>
     <td style="text-align: center;">
