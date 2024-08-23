@@ -90,7 +90,7 @@
       </a>
     </blockquote>
   </summary>
-  <table id="myDetails">
+  <table>
     <tr>
       <td>
         <details>
