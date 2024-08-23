@@ -61,35 +61,36 @@
 
 
 
-
 <details>
-<summary><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=10000&color=000000&center=true&vCenter=true&multiline=true&width=700&lines=Programing+Language+" alt="Typing SVG" /></a></summary>
-<table>
-  <tr>
-    <td style="text-align: center;">
-      <a href="https://www.linkedin.com/in/a7med-elgo7ary">
-        <img src="linkedin.svg" alt="LinkedIn Profile" width="45" height="45">
-      </a>
-    </td>
-    <td style="text-align: center;">
-      <a href="https://www.linkedin.com/in/a7med-elgo7ary">
-        <img src="Facebook.svg" alt="Facebook Icon" width="45" height="45">
-      </a>
-    </td>
-    <td style="text-align: center;">
-      <a href="https://www.linkedin.com/in/a7med-elgo7ary" target="_blank">
-        <img src="Youtube.svg" alt="YouTube Icon" width="45" height="45">
-      </a>
-    </td>
-    <td style="text-align: center;">
-      <a href="https://www.linkedin.com/in/a7med-elgo7ary" target="_blank">
-        <img src="Instagram.svg" alt="Instagram Icon" width="45" height="45">
-      </a>
-    </td>
-  </tr>
-</table>
-
+  <summary>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=10000&color=000000&center=true&vCenter=true&multiline=true&width=700&lines=Programming+Languages" alt="Typing SVG" /></a>
+  </summary>
+  <table>
+    <tr>
+      <td style="text-align: center;">
+        <a href="https://www.linkedin.com/in/a7med-elgo7ary">
+          <img src="linkedin.svg" alt="LinkedIn Profile" width="45" height="45">
+        </a>
+      </td>
+      <td style="text-align: center;">
+        <a href="https://www.linkedin.com/in/a7med-elgo7ary">
+          <img src="Facebook.svg" alt="Facebook Icon" width="45" height="45">
+        </a>
+      </td>
+      <td style="text-align: center;">
+        <a href="https://www.linkedin.com/in/a7med-elgo7ary" target="_blank">
+          <img src="Youtube.svg" alt="YouTube Icon" width="45" height="45">
+        </a>
+      </td>
+      <td style="text-align: center;">
+        <a href="https://www.linkedin.com/in/a7med-elgo7ary" target="_blank">
+          <img src="Instagram.svg" alt="Instagram Icon" width="45" height="45">
+        </a>
+      </td>
+    </tr>
+  </table>
 </details>
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=1000&pause=400&color=BFF749&center=true&vCenter=true&multiline=true&width=1000&height=40&lines=CONTINUE+%F0%9F%A4%8C)](https://www.linkedin.com/in/a7med-elgo7ary)
 
