@@ -82,150 +82,149 @@
 
 
 
-
 <details>
   <summary style="font-size: 20px; font-weight: bold;">
-          <blockquote style="font-size: 50px; font-weight: bold; color:#123123;">
-            <a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=2000&color=F72EDE&multiline=true&width=700&height=35&lines=Die+Fantasie+beginnt+%F0%9F%92%AB" alt="Typing SVG" /></a>
-          </blockquote>
- </summary>
- <table>
-  <tr>
-    <td>
-      <details>
-        <summary style="font-size: 20px; font-weight: bold;">
-          <blockquote style="font-size: 50px; font-weight: bold; color:#123123;">
-            Programming Languages
-          </blockquote>
-        </summary>
-        <a href="https://www.linkedin.com/in/a7med-elgo7ary">
-          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=15&pause=2500&color=53C8FF&multiline=true&width=400&height=30&lines=+++Thinking+++Imagining+++coffee+mixing+++coding." alt="Typing SVG"/>
-        </a>
-        <table>
-          <tr>
-            <td style="text-align: center;">
-              <a href="https://www.linkedin.com/in/a7med-elgo7ary">
-                <img src="c++.svg" alt="LinkedIn Profile" width="45" height="45">
-              </a>
-            </td>
-            <td style="text-align: center;">
-              <a href="https://www.linkedin.com/in/a7med-elgo7ary">
-                <img src="c.svg" alt="Facebook Icon" width="45" height="45">
-              </a>
-            </td>
-            <td style="text-align: center;">
-              <a href="https://www.linkedin.com/in/a7med-elgo7ary" target="_blank">
-                <img src="python.svg" alt="YouTube Icon" width="45" height="45">
-              </a>
-            </td>
-            <td style="text-align: center;">
-              <a href="https://www.linkedin.com/in/a7med-elgo7ary" target="_blank">
-                <img src="Dart.svg" alt="Instagram Icon" width="45" height="45">
-              </a>
-            </td>
-            <td style="text-align: center;">
-              <a href="https://www.linkedin.com/in/a7med-elgo7ary" target="_blank">
-                <img src="sql.svg" alt="Instagram Icon" width="45" height="45">
-              </a>
-            </td>
-          </tr>
-        </table>
-      </details>
-    </td>
-    <td>
-      <details>
-        <summary style="font-size: 20px; font-weight: bold;">
-          <blockquote style="font-size: 50px; font-weight: bold; color:#123123;">
-            IDE Software
-          </blockquote>
-        </summary>
-        <a href="https://www.linkedin.com/in/a7med-elgo7ary">
-          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=15&pause=2500&color=53C8FF&multiline=true&width=400&height=30&lines=+++shape+++and+++ mold+my+++code." alt="Typing SVG"/>
-        </a>
-        <table>
-          <tr>
-            <td style="text-align: center;">
-              <a href="https://www.linkedin.com/in/a7med-elgo7ary">
-                <img src="visual-studio-code-seeklogo.svg" alt="VS code" width="45" height="45">
-              </a>
-            </td>
-            <td style="text-align: center;">
-              <a href="https://www.linkedin.com/in/a7med-elgo7ary">
-                <img src="android-studioe.svg" alt="Android studio Icon" width="45" height="45">
-              </a>
-            </td>
-            <td style="text-align: center;">
-              <a href="https://www.linkedin.com/in/a7med-elgo7ary" target="_blank">
-                <img src="arduino.svg" alt="Arduino Icon" width="45" height="45">
-              </a>
-            </td>
-            <td style="text-align: center;">
-              <a href="https://www.linkedin.com/in/a7med-elgo7ary" target="_blank">
-                <img src="mch.avif" alt="micrichip Icon" width="45" height="45">
-              </a>
-            </td>
-            <td style="text-align: center;">
-              <a href="https://www.linkedin.com/in/a7med-elgo7ary" target="_blank">
-                <img src="anaconda.svg" alt="Anaconda Icon" width="45" height="45">
-              </a>
-            </td>
-            <td style="text-align: center;">
-              <a href="https://www.linkedin.com/in/a7med-elgo7ary" target="_blank">
-                <img src="jupyter.svg" alt="Jupyter Icon" width="45" height="45">
-              </a>
-            </td>
-            <td style="text-align: center;">
-              <a href="https://www.linkedin.com/in/a7med-elgo7ary" target="_blank">
-                <img src="colab.png" alt="Colab Icon" width="45" height="45">
-              </a>
-            </td>
-          </tr>
-        </table>
-      </details>
-    </td>
-     <td>
-      <details>
-        <summary style="font-size: 20px; font-weight: bold;">
-          <blockquote style="font-size: 50px; font-weight: bold; color:#123123;">
-            Programming Languages
-          </blockquote>
-        </summary>
-        <a href="https://www.linkedin.com/in/a7med-elgo7ary">
-          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=15&pause=2500&color=53C8FF&multiline=true&width=400&height=30&lines=+++Thinking+++Imagining+++coffee+mixing+++coding." alt="Typing SVG"/>
-        </a>
-        <table>
-          <tr>
-            <td style="text-align: center;">
-              <a href="https://www.linkedin.com/in/a7med-elgo7ary">
-                <img src="c++.svg" alt="LinkedIn Profile" width="45" height="45">
-              </a>
-            </td>
-            <td style="text-align: center;">
-              <a href="https://www.linkedin.com/in/a7med-elgo7ary">
-                <img src="c.svg" alt="Facebook Icon" width="45" height="45">
-              </a>
-            </td>
-            <td style="text-align: center;">
-              <a href="https://www.linkedin.com/in/a7med-elgo7ary" target="_blank">
-                <img src="python.svg" alt="YouTube Icon" width="45" height="45">
-              </a>
-            </td>
-            <td style="text-align: center;">
-              <a href="https://www.linkedin.com/in/a7med-elgo7ary" target="_blank">
-                <img src="Dart.svg" alt="Instagram Icon" width="45" height="45">
-              </a>
-            </td>
-            <td style="text-align: center;">
-              <a href="https://www.linkedin.com/in/a7med-elgo7ary" target="_blank">
-                <img src="sql.svg" alt="Instagram Icon" width="45" height="45">
-              </a>
-            </td>
-          </tr>
-        </table>
-      </details>
-    </td>
-  </tr>
-</table>
+    <blockquote style="font-size: 50px; font-weight: bold; color:#123123;">
+      <a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=2000&color=F72EDE&multiline=true&width=700&height=35&lines=Die+Fantasie+beginnt+%F0%9F%92%AB" alt="Typing SVG" /></a>
+    </blockquote>
+  </summary>
+  <table>
+    <tr>
+      <td>
+        <details>
+          <summary style="font-size: 20px; font-weight: bold;">
+            <blockquote style="font-size: 50px; font-weight: bold; color:#123123;">
+              Programming Languages
+            </blockquote>
+          </summary>
+          <a href="https://www.linkedin.com/in/a7med-elgo7ary">
+            <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=15&pause=2500&color=53C8FF&multiline=true&width=400&height=30&lines=+++Thinking+++Imagining+++coffee+mixing+++coding." alt="Typing SVG"/>
+          </a>
+          <table>
+            <tr>
+              <td style="text-align: center;">
+                <a href="https://www.linkedin.com/in/a7med-elgo7ary">
+                  <img src="c++.svg" alt="LinkedIn Profile" width="45" height="45">
+                </a>
+              </td>
+              <td style="text-align: center;">
+                <a href="https://www.linkedin.com/in/a7med-elgo7ary">
+                  <img src="c.svg" alt="Facebook Icon" width="45" height="45">
+                </a>
+              </td>
+              <td style="text-align: center;">
+                <a href="https://www.linkedin.com/in/a7med-elgo7ary" target="_blank">
+                  <img src="python.svg" alt="YouTube Icon" width="45" height="45">
+                </a>
+              </td>
+              <td style="text-align: center;">
+                <a href="https://www.linkedin.com/in/a7med-elgo7ary" target="_blank">
+                  <img src="Dart.svg" alt="Instagram Icon" width="45" height="45">
+                </a>
+              </td>
+              <td style="text-align: center;">
+                <a href="https://www.linkedin.com/in/a7med-elgo7ary" target="_blank">
+                  <img src="sql.svg" alt="Instagram Icon" width="45" height="45">
+                </a>
+              </td>
+            </tr>
+          </table>
+        </details>
+      </td>
+      <td>
+        <details>
+          <summary style="font-size: 20px; font-weight: bold;">
+            <blockquote style="font-size: 50px; font-weight: bold; color:#123123;">
+              IDE Software
+            </blockquote>
+          </summary>
+          <a href="https://www.linkedin.com/in/a7med-elgo7ary">
+            <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=15&pause=2500&color=53C8FF&multiline=true&width=400&height=30&lines=+++shape+++and+++ mold+my+++code." alt="Typing SVG"/>
+          </a>
+          <table>
+            <tr>
+              <td style="text-align: center;">
+                <a href="https://www.linkedin.com/in/a7med-elgo7ary">
+                  <img src="visual-studio-code-seeklogo.svg" alt="VS code" width="45" height="45">
+                </a>
+              </td>
+              <td style="text-align: center;">
+                <a href="https://www.linkedin.com/in/a7med-elgo7ary">
+                  <img src="android-studioe.svg" alt="Android studio Icon" width="45" height="45">
+                </a>
+              </td>
+              <td style="text-align: center;">
+                <a href="https://www.linkedin.com/in/a7med-elgo7ary" target="_blank">
+                  <img src="arduino.svg" alt="Arduino Icon" width="45" height="45">
+                </a>
+              </td>
+              <td style="text-align: center;">
+                <a href="https://www.linkedin.com/in/a7med-elgo7ary" target="_blank">
+                  <img src="mch.avif" alt="micrichip Icon" width="45" height="45">
+                </a>
+              </td>
+              <td style="text-align: center;">
+                <a href="https://www.linkedin.com/in/a7med-elgo7ary" target="_blank">
+                  <img src="anaconda.svg" alt="Anaconda Icon" width="45" height="45">
+                </a>
+              </td>
+              <td style="text-align: center;">
+                <a href="https://www.linkedin.com/in/a7med-elgo7ary" target="_blank">
+                  <img src="jupyter.svg" alt="Jupyter Icon" width="45" height="45">
+                </a>
+              </td>
+              <td style="text-align: center;">
+                <a href="https://www.linkedin.com/in/a7med-elgo7ary" target="_blank">
+                  <img src="colab.png" alt="Colab Icon" width="45" height="45">
+                </a>
+              </td>
+            </tr>
+          </table>
+        </details>
+      </td>
+      <td>
+        <details>
+          <summary style="font-size: 20px; font-weight: bold;">
+            <blockquote style="font-size: 50px; font-weight: bold; color:#123123;">
+              Programming Languages
+            </blockquote>
+          </summary>
+          <a href="https://www.linkedin.com/in/a7med-elgo7ary">
+            <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=15&pause=2500&color=53C8FF&multiline=true&width=400&height=30&lines=+++Thinking+++Imagining+++coffee+mixing+++coding." alt="Typing SVG"/>
+          </a>
+          <table>
+            <tr>
+              <td style="text-align: center;">
+                <a href="https://www.linkedin.com/in/a7med-elgo7ary">
+                  <img src="c++.svg" alt="LinkedIn Profile" width="45" height="45">
+                </a>
+              </td>
+              <td style="text-align: center;">
+                <a href="https://www.linkedin.com/in/a7med-elgo7ary">
+                  <img src="c.svg" alt="Facebook Icon" width="45" height="45">
+                </a>
+              </td>
+              <td style="text-align: center;">
+                <a href="https://www.linkedin.com/in/a7med-elgo7ary" target="_blank">
+                  <img src="python.svg" alt="YouTube Icon" width="45" height="45">
+                </a>
+              </td>
+              <td style="text-align: center;">
+                <a href="https://www.linkedin.com/in/a7med-elgo7ary" target="_blank">
+                  <img src="Dart.svg" alt="Instagram Icon" width="45" height="45">
+                </a>
+              </td>
+              <td style="text-align: center;">
+                <a href="https://www.linkedin.com/in/a7med-elgo7ary" target="_blank">
+                  <img src="sql.svg" alt="Instagram Icon" width="45" height="45">
+                </a>
+              </td>
+            </tr>
+          </table>
+        </details>
+      </td>
+    </tr>
+  </table>
 </details>
 
 
