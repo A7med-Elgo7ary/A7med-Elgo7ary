@@ -50,6 +50,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=1000&pause=400&color=BFF749&center=true&vCenter=true&multiline=true&width=1000&height=40&lines=CONTINUE+%F0%9F%A4%8C)](https://www.linkedin.com/in/a7med-elgo7ary)
 
 <!-- Adjust appearance based on GitHub theme -->
+
+
 <style>
 @media (prefers-color-scheme: dark) {
     blockquote {
