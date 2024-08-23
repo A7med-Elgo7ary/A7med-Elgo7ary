@@ -22,7 +22,7 @@
       </a>
       <br>
       <a href="https://wa.me/201009515837" target="_blank">
-        <img src="whatsApp.svg" alt="WhatsApp Icon" width="50" height="50">
+        <img src="whatsApp.svg" alt="WhatsApp Icon" width="50" height="60">
       </a>
       <br>
       <a href="https://www.kaggle.com/a7medelgo7ary" target="_blank">
