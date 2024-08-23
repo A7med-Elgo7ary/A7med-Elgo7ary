@@ -14,7 +14,7 @@
     <td style="width: 50%; vertical-align: top; text-align: center;">
       <!-- Contact Icons -->
       <a href="https://www.linkedin.com/in/a7med-elgo7ary">
-        <img src="Linkedin_Logo_black.png" alt="LinkedIn Profile" width="40" height="40">
+        <img src="linkedin.svg" alt="LinkedIn Profile" width="40" height="40">
       </a>
       <br>
       <a href="mailto:a7medelgo7ry@gmail.com">
