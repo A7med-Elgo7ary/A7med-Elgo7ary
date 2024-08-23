@@ -32,19 +32,19 @@
     <td style="width: 50%; vertical-align: top; text-align: center;">
       <!-- Contact Icons -->
       <a href="mailto:a7medelgo7ry@gmail.com">
-        <img src="Email.svg" alt="Email Icon" width="40" height="40">
+        <img src="Email.svg" alt="Email Icon" width="45" height="45">
       </a>
       <br>
       <a href="https://wa.me/201009515837" target="_blank">
-        <img src="whatsApp.svg" alt="WhatsApp Icon" width="50" height="50">
+        <img src="whatsApp.svg" alt="WhatsApp Icon" width="45" height="45">
       </a>
       <br>
       <a href="https://www.linkedin.com/in/a7med-elgo7ary">
-        <img src="linkedin.svg" alt="LinkedIn Profile" width="40" height="40">
+        <img src="linkedin.svg" alt="LinkedIn Profile" width="45" height="45">
       </a>
       <br>
       <a href="https://www.kaggle.com/a7medelgo7ary" target="_blank">
-        <img src="kaggle.png" alt="Kaggle Icon" width="35" height="35">
+        <img src="kaggle.png" alt="Kaggle Icon" width="45" height="45">
       </a>
     </td>
     
