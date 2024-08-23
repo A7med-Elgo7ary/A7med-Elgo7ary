@@ -82,7 +82,7 @@
 
 
 
-<details>
+<details id="myDetails">
   <summary style="font-size: 20px; font-weight: bold;">
     <blockquote style="font-size: 50px; font-weight: bold; color:#123123;">
       <a href="javascript:void(0);" onclick="document.getElementById('myDetails').open = true;">
