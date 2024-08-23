@@ -63,7 +63,7 @@
 
 <details>
   <summary>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=10000&color=000000&multiline=true&width=700&lines=Programing+Language+" alt="Typing SVG" /></a>  
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=25&pause=10000&color=000000&multiline=true&width=200&lines=Programing+Language+" alt="Typing SVG" /></a>  
   </summary>
   <table>
     <tr>
