@@ -82,7 +82,7 @@
 
 
 
-<details id="myDetails">
+<details>
   <summary style="font-size: 20px; font-weight: bold;">
     <blockquote style="font-size: 50px; font-weight: bold; color:#123123;">
       <a href="javascript:void(0);" onclick="document.getElementById('myDetails').open = true;">
@@ -90,7 +90,7 @@
       </a>
     </blockquote>
   </summary>
-  <table>
+  <table id="myDetails">
     <tr>
       <td>
         <details>
