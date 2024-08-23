@@ -13,19 +13,19 @@
     <td style="width: 50%; vertical-align: top; text-align: center;">
       <!-- Contact Icons -->
       <a href="https://www.linkedin.com/in/a7med-elgo7ary">
-        <img src="linkedin.svg" alt="LinkedIn Profile" width="45" height="45">
+        <img src="linkedin.svg" alt="LinkedIn Profile" width="50" height="50">
       </a>
       <br>
       <a href="https://www.linkedin.com/in/a7med-elgo7ary">
-        <img src="Facebook.svg" alt="Facebok Icon" width="45" height="45">
+        <img src="Facebook.svg" alt="Facebok Icon" width="50" height="50">
       </a>
       <br>
       <a href="https://www.linkedin.com/in/a7med-elgo7ary" target="_blank">
-        <img src="Youtube.svg" alt="Youtube Icon" width="45" height="45">
+        <img src="Youtube.svg" alt="Youtube Icon" width="50" height="50">
       </a>
       <br>
       <a href="https://www.linkedin.com/in/a7med-elgo7ary" target="_blank">
-        <img src="Instagram.svg" alt="instagram Icon" width="45" height="45">
+        <img src="Instagram.svg" alt="instagram Icon" width="50" height="50">
       </a>
     </td>
     <td style="width: 50%; vertical-align: top; text-align: center;">
