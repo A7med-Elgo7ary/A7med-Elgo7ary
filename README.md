@@ -21,8 +21,8 @@
         <img src="Facebook.svg" alt="Email Icon" width="45" height="45">
       </a>
       <br>
-      <a href="https://wa.me/201009515837" target="_blank">
-        <img src="whatsApp.svg" alt="WhatsApp Icon" width="50" height="50">
+     <a href="https://wa.me/201009515837" target="_blank">
+        <img src="Youtube.svg" alt="WhatsApp Icon" width="45" height="45">
       </a>
       <br>
       <a href="https://www.kaggle.com/a7medelgo7ary" target="_blank">
@@ -35,12 +35,13 @@
         <img src="Email.svg" alt="Email Icon" width="40" height="40">
       </a>
       <br>
+      <a href="https://wa.me/201009515837" target="_blank">
+        <img src="whatsApp.svg" alt="WhatsApp Icon" width="50" height="50">
+      </a>
+       
+      <br>
       <a href="https://www.linkedin.com/in/a7med-elgo7ary">
         <img src="linkedin.svg" alt="LinkedIn Profile" width="40" height="40">
-      </a>
-      <br>
-      <a href="https://wa.me/201009515837" target="_blank">
-        <img src="Youtube.svg" alt="WhatsApp Icon" width="45" height="45">
       </a>
       <br>
       <a href="https://www.kaggle.com/a7medelgo7ary" target="_blank">
