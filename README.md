@@ -55,6 +55,11 @@
    If We Pull Together And Commit Ourselves, Then We Can Push Through Anything.
 </blockquote>
 
+
+
+
+
+
 <details>
 <summary>My top languages</summary>
 
@@ -70,12 +75,18 @@
       <a href="https://www.linkedin.com/in/a7med-elgo7ary">
         <img src="linkedin.svg" alt="LinkedIn Profile" width="45" height="45">
       </a>
+    </td>
+    <td style="text-align: center;">
       <a href="https://www.linkedin.com/in/a7med-elgo7ary">
         <img src="Facebook.svg" alt="Facebook Icon" width="45" height="45">
       </a>
+    </td>
+    <td style="text-align: center;">
       <a href="https://www.linkedin.com/in/a7med-elgo7ary" target="_blank">
         <img src="Youtube.svg" alt="YouTube Icon" width="45" height="45">
       </a>
+    </td>
+    <td style="text-align: center;">
       <a href="https://www.linkedin.com/in/a7med-elgo7ary" target="_blank">
         <img src="Instagram.svg" alt="Instagram Icon" width="45" height="45">
       </a>
