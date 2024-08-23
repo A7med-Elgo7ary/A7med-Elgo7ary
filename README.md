@@ -1,4 +1,4 @@
-- 🔭   &emsp;   🌱    &emsp;   👯   &emsp;    🤔   &emsp;    💬   &emsp;    📫   &emsp;    😄    &emsp;   ⚡Fun Fact: <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=15&pause=2000&color=C5D1F7&multiline=true&width=300&height=20&lines=Ich+bin+ein+Frauenheld+%F0%9F%98%82%F0%9F%92%96" alt="Typing SVG" /></a>
+- 🔭   &emsp;   🌱    &emsp;   👯   &emsp;    🤔   &emsp;    💬   &emsp;    📫   &emsp;    😄    &emsp;   ⚡Fun Fact: <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=15&pause=2000&color=C5D1F7&multiline=true&width=200height=20&lines=Ich+bin+ein+Frauenheld+%F0%9F%98%82%F0%9F%92%96" alt="Typing SVG" /></a>
 
 
 <table>
