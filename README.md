@@ -39,6 +39,9 @@
         <img src="Email.svg" alt="Email Icon" width="45" height="45">
       </a>
       <br>
+       <a href="https://www.kaggle.com/a7medelgo7ary" target="_blank">
+        <img src="web.svg" alt="Kaggle Icon" width="45" height="45">
+      </a>
       <br>
       <a href="https://www.kaggle.com/a7medelgo7ary" target="_blank">
         <img src="Kaggle.png" alt="Kaggle Icon" width="45" height="45">
