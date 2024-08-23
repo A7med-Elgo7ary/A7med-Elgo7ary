@@ -39,9 +39,6 @@
         <img src="Email.svg" alt="Email Icon" width="45" height="45">
       </a>
       <br>
-      <a href="https://www.linkedin.com/in/a7med-elgo7ary">
-        <img src="linkedin.svg" alt="LinkedIn Profile" width="45" height="45">
-      </a>
       <br>
       <a href="https://www.kaggle.com/a7medelgo7ary" target="_blank">
         <img src="Kaggle_Logo_black.png" alt="Kaggle Icon" width="30" height="30">
