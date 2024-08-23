@@ -51,28 +51,3 @@
 
 <!-- Adjust appearance based on GitHub theme -->
 
-
-<style>
-@media (prefers-color-scheme: dark) {
-    blockquote {
-        color: #ffffff;
-    }
-    hr {
-        background-color: #ffffff;
-    }
-    img {
-        filter: brightness(0) invert(1);
-    }
-}
-@media (prefers-color-scheme: light) {
-    blockquote {
-        color: #123123;
-    }
-    hr {
-        background-color: #ff5733;
-    }
-    img {
-        filter: none;
-    }
-}
-</style>
