@@ -11,7 +11,7 @@
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=2000&color=F72EDE&multiline=true&width=700&height=110&lines=Embedded+System+Software+Engineer.;Skilled+in+AI%2C+Machine+Learning+and+Data+Science.+;Passionate+about+AI+and+Robotics.+;Dedicated+to+pushing+innovation+boundaries+in+technology." alt="Typing SVG">
       </a>
       <hr style="border: .5; height: .5px; background-color: #ff5733; width: 1%;"
-      <a href="https://www.linkedin.com/in/a7med-elgo7ary"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&pause=5000&color=5CF715&center=true&vCenter=true&multiline=true&width=700&height=40&lines=%F0%9F%A7%BF+%F0%9D%90%91+A%CC%B3+%F0%9D%90%8E+I%CC%B3+%F0%9D%90%81+F%CC%B3+%F0%9D%90%8E+A%CC%B3+%F0%9D%90%93+%F0%9F%91%BE" alt="Typing SVG" /></a>
+      <a href="https://www.linkedin.com/in/a7med-elgo7ary"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&pause=5000&color=5CF715&center=true&vCenter=true&multiline=true&width=700&height=40&lines=%F0%9F%A7%BF+%F0%9D%90%91+A%CC%B3+%F0%9D%90%8E+I%CC%B3+%F0%9D%90%81+F%CC%B3+%F0%9D%90%8E+A%CC%B3+%F0%9D%90%93+%F0%9F%91%BE" alt="Typing SVG" /></a>
       <hr style="border: .5; height: .5px; background-color: #ff5733; width: 1%;">
     </td>
     <td style="width: 50%; vertical-align: top; text-align: center;">
