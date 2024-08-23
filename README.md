@@ -1,4 +1,4 @@
-- 🔭   &nbsp;    🌱    &nbsp;   👯   &nbsp;    🤔   &nbsp;    💬   &nbsp;    📫   &nbsp;    😄    &nbsp;   ⚡ 
+- 🔭   &nbsp; &emsp;   🌱    &nbsp;&emsp;   👯   &nbsp;&emsp;    🤔   &nbsp;&emsp;    💬   &nbsp;&emsp;    📫   &nbsp;&emsp;    😄    &nbsp;&emsp;   ⚡ 
 
 
 <table>
