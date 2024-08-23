@@ -51,6 +51,7 @@
         <img src="Kaggle_Logo_black.png" alt="Kaggle Icon" width="35" height="35">
       </a>
     </td>
+    
   </tr>
 </table>
 
