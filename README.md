@@ -11,8 +11,6 @@
       </a>
       <hr style="border: .5; height: .5px; background-color: #ff5733; width: 1%;">
     </td>
-
-    
     <td style="width: 50%; vertical-align: top; text-align: center;">
       <!-- Contact Icons -->
       <a href="https://www.linkedin.com/in/a7med-elgo7ary">
@@ -31,8 +29,6 @@
         <img src="Kaggle_Logo_black.png" alt="Kaggle Icon" width="35" height="35">
       </a>
     </td>
-
-    
     <td style="width: 50%; vertical-align: top; text-align: center;">
       <!-- Contact Icons -->
       <a href="https://www.linkedin.com/in/a7med-elgo7ary">
