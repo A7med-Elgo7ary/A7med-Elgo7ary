@@ -83,8 +83,13 @@
 
 
 
-
-<table>
+<details>
+  <summary style="font-size: 20px; font-weight: bold;">
+          <blockquote style="font-size: 50px; font-weight: bold; color:#123123;">
+            Programming Languages
+          </blockquote>
+ </summary>
+ <table>
   <tr>
     <td>
       <details>
@@ -221,10 +226,7 @@
     </td>
   </tr>
 </table>
-
-
-
-
+</details>
 
 
 
