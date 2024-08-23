@@ -131,11 +131,11 @@
       <details>
         <summary style="font-size: 20px; font-weight: bold;">
           <blockquote style="font-size: 50px; font-weight: bold; color:#123123;">
-            Programming Languages
+            IDE Software
           </blockquote>
         </summary>
         <a href="https://www.linkedin.com/in/a7med-elgo7ary">
-          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=15&pause=2500&color=53C8FF&multiline=true&width=400&height=30&lines=+++Thinking+++Imagining+++coffee+mixing+++coding." alt="Typing SVG"/>
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=15&pause=2500&color=53C8FF&multiline=true&width=400&height=30&lines=+++shape+++and+++ mold+my+++code." alt="Typing SVG"/>
         </a>
         <table>
           <tr>
