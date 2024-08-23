@@ -10,7 +10,7 @@
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=2000&color=F72EDE&multiline=true&width=700&height=110&lines=Embedded+System+Software+Engineer.;Skilled+in+AI%2C+Machine+Learning+and+Data+Science.+;Passionate+about+AI+and+Robotics.+;Dedicated+to+pushing+innovation+boundaries+in+technology." alt="Typing SVG">
       </a>
        <a href="https://www.linkedin.com/in/a7med-elgo7ary">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=2000&color=F72EDE&multiline=true&width=700&height=110&lines="Instagram.svg"" alt="Typing SVG">
+        <img src="Instagram.svg?font=Fira+Code&weight=500&pause=2000&color=F72EDE&multiline=true&width=700&height=110&lines="Instagram.svg"" alt="Typing SVG">
       </a>
       <hr style="border: .5; height: .5px; background-color: #ff5733; width: 1%;">
     </td>
