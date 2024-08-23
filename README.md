@@ -13,12 +13,12 @@
     </td>
     <td style="width: 50%; vertical-align: top; text-align: center;">
       <!-- Contact Icons -->
-      <a href="https://wa.me/201009515837" target="_blank">
-        <img src="whatsApp.svg" alt="WhatsApp Icon" width="45" height="45">
-      </a>
-      <br>
       <a href="mailto:a7medelgo7ry@gmail.com">
         <img src="Facebook.svg" alt="Email Icon" width="45" height="45">
+      </a>
+      <br>
+      <a href="https://wa.me/201009515837" target="_blank">
+        <img src="whatsApp.svg" alt="WhatsApp Icon" width="45" height="45">
       </a>
       <br>
       <a href="https://wa.me/201009515837" target="_blank">
