@@ -36,12 +36,12 @@
       </a>
       <br>
       <a href="mailto:a7medelgo7ry@gmail.com">
-        <img src="Email.svg" alt="Email Icon" width="30" height="30">
+        <img src="Email.svg" alt="Email Icon" width="45" height="45">
       </a>
       <br>
       <br>
       <a href="https://www.kaggle.com/a7medelgo7ary" target="_blank">
-        <img src="Kaggle.png" alt="Kaggle Icon" width="30" height="30">
+        <img src="Kaggle.png" alt="Kaggle Icon" width="45" height="45">
       </a>
     </td>
     
