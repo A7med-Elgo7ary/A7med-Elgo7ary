@@ -38,7 +38,6 @@
       <a href="https://wa.me/201009515837" target="_blank">
         <img src="whatsApp.svg" alt="WhatsApp Icon" width="50" height="50">
       </a>
-       
       <br>
       <a href="https://www.linkedin.com/in/a7med-elgo7ary">
         <img src="linkedin.svg" alt="LinkedIn Profile" width="40" height="40">
