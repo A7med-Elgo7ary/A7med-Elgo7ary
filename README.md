@@ -1,15 +1,4 @@
 
-<p align="center">
-  <svg width="600" height="100">
-    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="monospace" font-size="50" fill="transparent" stroke="#000000" stroke-width="2" stroke-dasharray="500" stroke-dashoffset="500" animation="stroke-dashoffset 5s ease-in-out forwards">
-      Ahmed Elgohary
-    </text>
-    <animate attributeName="stroke-dashoffset" from="500" to="0" dur="5s" fill="freeze" />
-  </svg>
-</p>
-
-
-
 <table>
   <tr>
     <td style="width: 50%; vertical-align: top; text-align: center;">
