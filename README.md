@@ -32,19 +32,19 @@
     <td style="width: 50%; vertical-align: top; text-align: center;">
       <!-- Contact Icons -->
       <a href="https://wa.me/201009515837" target="_blank">
-        <img src="WhatsApp.svg" alt="WhatsApp Icon" width="45" height=45"">
+        <img src="WhatsApp.svg" alt="WhatsApp Icon" width="60" height=60"">
       </a>
       <br>
       <a href="mailto:a7medelgo7ry@gmail.com">
-        <img src="Email.svg" alt="Email Icon" width="45" height="45">
+        <img src="Email.svg" alt="Email Icon" width="60" height="60">
       </a>
       <br>
        <a href="https://diamond-cymbal-f98.notion.site/833edfd7e627443dab51ca0a4e46e628?v=6cf75e7daeb5460a82fdb71a3be5dbd9" target="_blank">
-        <img src="web.svg" alt="website Icon" width="45" height="45">
+        <img src="web.svg" alt="website Icon" width="60" height="60">
       </a>
       <br>
       <a href="https://www.kaggle.com/a7medelgo7ary" target="_blank">
-        <img src="Kaggle.png" alt="Kaggle Icon" width="40" height="40">
+        <img src="Kaggle.png" alt="Kaggle Icon" width="55" height="55">
       </a>
     </td>
     
