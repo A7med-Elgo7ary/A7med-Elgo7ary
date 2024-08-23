@@ -82,7 +82,7 @@
       </td>
       <td style="text-align: center;">
         <a href="https://www.linkedin.com/in/a7med-elgo7ary" target="_blank">
-          <img src="dart.svg" alt="Instagram Icon" width="60" height="60">
+          <img src="dart.svg" alt="Instagram Icon" width="100" height="100">
         </a>
       </td>
        <td style="text-align: center;">
