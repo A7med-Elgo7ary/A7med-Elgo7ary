@@ -62,7 +62,7 @@
 
 <details>
   <summary style="font-size: 20px; font-weight: bold;">Programming Language</summary>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=10000&color=000000&center=true&vCenter=true&multiline=true&width=700&lines=Programming+Languages" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=5000&color=53C8FF&multiline=true&width=700&lines=Thinking+++Imagining+++coffee+mixing+++coding" alt="Typing SVG" /></a>
   <table>
     <tr>
       <td style="text-align: center;">
