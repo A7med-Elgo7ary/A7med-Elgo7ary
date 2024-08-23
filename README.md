@@ -141,27 +141,37 @@
           <tr>
             <td style="text-align: center;">
               <a href="https://www.linkedin.com/in/a7med-elgo7ary">
-                <img src="c++.svg" alt="LinkedIn Profile" width="45" height="45">
+                <img src="visual-studio-code-seeklogo.svg" alt="LinkedIn Profile" width="45" height="45">
               </a>
             </td>
             <td style="text-align: center;">
               <a href="https://www.linkedin.com/in/a7med-elgo7ary">
-                <img src="c.svg" alt="Facebook Icon" width="45" height="45">
+                <img src="android-studioe.svg" alt="Facebook Icon" width="45" height="45">
               </a>
             </td>
             <td style="text-align: center;">
               <a href="https://www.linkedin.com/in/a7med-elgo7ary" target="_blank">
-                <img src="python.svg" alt="YouTube Icon" width="45" height="45">
+                <img src="arduino.svg" alt="YouTube Icon" width="45" height="45">
               </a>
             </td>
             <td style="text-align: center;">
               <a href="https://www.linkedin.com/in/a7med-elgo7ary" target="_blank">
-                <img src="Dart.svg" alt="Instagram Icon" width="45" height="45">
+                <img src="mch.avif" alt="Instagram Icon" width="45" height="45">
               </a>
             </td>
             <td style="text-align: center;">
               <a href="https://www.linkedin.com/in/a7med-elgo7ary" target="_blank">
-                <img src="sql.svg" alt="Instagram Icon" width="45" height="45">
+                <img src="anaconda.svg" alt="Instagram Icon" width="45" height="45">
+              </a>
+            </td>
+            <td style="text-align: center;">
+              <a href="https://www.linkedin.com/in/a7med-elgo7ary" target="_blank">
+                <img src="jupyter.svg" alt="Instagram Icon" width="45" height="45">
+              </a>
+            </td>
+            <td style="text-align: center;">
+              <a href="https://www.linkedin.com/in/a7med-elgo7ary" target="_blank">
+                <img src="colab.png" alt="Instagram Icon" width="45" height="45">
               </a>
             </td>
           </tr>
