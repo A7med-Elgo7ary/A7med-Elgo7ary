@@ -39,8 +39,8 @@
         <img src="Email.svg" alt="Email Icon" width="45" height="45">
       </a>
       <br>
-       <a href="https://www.kaggle.com/a7medelgo7ary" target="_blank">
-        <img src="web.svg" alt="Kaggle Icon" width="45" height="45">
+       <a href="https://diamond-cymbal-f98.notion.site/833edfd7e627443dab51ca0a4e46e628?v=6cf75e7daeb5460a82fdb71a3be5dbd9" target="_blank">
+        <img src="web.svg" alt="website Icon" width="45" height="45">
       </a>
       <br>
       <a href="https://www.kaggle.com/a7medelgo7ary" target="_blank">
