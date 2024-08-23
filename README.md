@@ -64,22 +64,27 @@
 |     2|   C++     |
 |     3|  PYTHON   |
 
-
+<table>
+  <tr>
+    <td style="text-align: center;">
       <a href="https://www.linkedin.com/in/a7med-elgo7ary">
         <img src="linkedin.svg" alt="LinkedIn Profile" width="45" height="45">
       </a>
       <br>
       <a href="https://www.linkedin.com/in/a7med-elgo7ary">
-        <img src="Facebook.svg" alt="Facebok Icon" width="45" height="45">
+        <img src="Facebook.svg" alt="Facebook Icon" width="45" height="45">
       </a>
       <br>
       <a href="https://www.linkedin.com/in/a7med-elgo7ary" target="_blank">
-        <img src="Youtube.svg" alt="Youtube Icon" width="45" height="45">
+        <img src="Youtube.svg" alt="YouTube Icon" width="45" height="45">
       </a>
       <br>
       <a href="https://www.linkedin.com/in/a7med-elgo7ary" target="_blank">
-        <img src="Instagram.svg" alt="instagram Icon" width="45" height="45">
+        <img src="Instagram.svg" alt="Instagram Icon" width="45" height="45">
       </a>
+    </td>
+  </tr>
+</table>
 
 </details>
 
