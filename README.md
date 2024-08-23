@@ -94,7 +94,7 @@
           </blockquote>
         </summary>
         <a href="https://www.linkedin.com/in/a7med-elgo7ary">
-          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=15&pause=2500&color=53C8FF&multiline=true&width=500&height=30&lines=+++Thinking+++Imagining+++coffee+mixing+++coding." alt="Typing SVG"/>
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=15&pause=2500&color=53C8FF&multiline=true&width=300&height=30&lines=+++Thinking+++Imagining+++coffee+mixing+++coding." alt="Typing SVG"/>
         </a>
         <table>
           <tr>
