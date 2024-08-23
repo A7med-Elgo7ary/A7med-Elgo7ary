@@ -36,15 +36,15 @@
       </a>
       <br>
       <a href="mailto:a7medelgo7ry@gmail.com">
-        <img src="Email_Logo_black.jpg" alt="Email Icon" width="40" height="40">
+        <img src="Email.svg" alt="Email Icon" width="40" height="40">
       </a>
       <br>
       <a href="https://wa.me/201009515837" target="_blank">
-        <img src="whatsApp_Logo_black.png" alt="WhatsApp Icon" width="40" height="40">
+        <img src="Youtube.svg" alt="WhatsApp Icon" width="40" height="40">
       </a>
       <br>
       <a href="https://www.kaggle.com/a7medelgo7ary" target="_blank">
-        <img src="Kaggle_Logo_black.png" alt="Kaggle Icon" width="35" height="35">
+        <img src="kaggle.png" alt="Kaggle Icon" width="35" height="35">
       </a>
     </td>
     
