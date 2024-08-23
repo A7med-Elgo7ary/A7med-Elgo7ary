@@ -70,7 +70,7 @@
 <details>
   <summary style="font-size: 20px; font-weight: bold;">
     <blockquote style="font-size: 50px; font-weight: bold; color:#123123;">
-   If We Pull Together And Commit Ourselves, Then We Can Push Through Anything.
+     Programming Languages 
     </blockquote>
 </summary>
   <a href="https://www.linkedin.com/in/a7med-elgo7ary"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=15&pause=5000&color=53C8FF&multiline=true&width=700&height=30&lines=+++Thinking+++Imagining+++coffee+mixing+++coding." alt="Typing SVG" /></a> 
