@@ -108,9 +108,7 @@
 
 
 
-<!--
-
-<!-- Badges Row -->
+<!--<!-- Badges Row -->
 <p align="center">
   <img src="https://img.shields.io/badge/stars-5k-brightgreen.svg" alt="Stars" />
   <img src="https://img.shields.io/badge/license-Apache--2.0-blue.svg" alt="License" />
@@ -144,9 +142,7 @@
   <a href="https://www.producthunt.com/posts/resume-matcher">
     <img src="https://img.shields.io/badge/Product%20Hunt-red?style=for-the-badge&logo=product-hunt&logoColor=white" alt="Product Hunt" />
   </a>
-</p>
-
--->
+</p> -->
 
 
 
