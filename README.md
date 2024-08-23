@@ -60,11 +60,9 @@
 
 
 
-
 <details>
-  <summary>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=25&pause=10000&color=000000&multiline=true&width=700&lines=Programing+Language+" alt="Typing SVG" /></a>  
-  </summary>
+  <summary style="font-size: 20px; font-weight: bold;">Programming Language</summary>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=10000&color=000000&center=true&vCenter=true&multiline=true&width=700&lines=Programming+Languages" alt="Typing SVG" /></a>
   <table>
     <tr>
       <td style="text-align: center;">
@@ -90,6 +88,7 @@
     </tr>
   </table>
 </details>
+
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=1000&pause=400&color=BFF749&center=true&vCenter=true&multiline=true&width=1000&height=40&lines=CONTINUE+%F0%9F%A4%8C)](https://www.linkedin.com/in/a7med-elgo7ary)
