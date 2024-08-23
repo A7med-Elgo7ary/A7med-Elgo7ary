@@ -141,37 +141,37 @@
           <tr>
             <td style="text-align: center;">
               <a href="https://www.linkedin.com/in/a7med-elgo7ary">
-                <img src="visual-studio-code-seeklogo.svg" alt="LinkedIn Profile" width="45" height="45">
+                <img src="visual-studio-code-seeklogo.svg" alt="VS code" width="45" height="45">
               </a>
             </td>
             <td style="text-align: center;">
               <a href="https://www.linkedin.com/in/a7med-elgo7ary">
-                <img src="android-studioe.svg" alt="Facebook Icon" width="45" height="45">
+                <img src="android-studioe.svg" alt="Android studio Icon" width="45" height="45">
               </a>
             </td>
             <td style="text-align: center;">
               <a href="https://www.linkedin.com/in/a7med-elgo7ary" target="_blank">
-                <img src="arduino.svg" alt="YouTube Icon" width="45" height="45">
+                <img src="arduino.svg" alt="Arduino Icon" width="45" height="45">
               </a>
             </td>
             <td style="text-align: center;">
               <a href="https://www.linkedin.com/in/a7med-elgo7ary" target="_blank">
-                <img src="mch.avif" alt="Instagram Icon" width="45" height="45">
+                <img src="mch.avif" alt="micrichip Icon" width="45" height="45">
               </a>
             </td>
             <td style="text-align: center;">
               <a href="https://www.linkedin.com/in/a7med-elgo7ary" target="_blank">
-                <img src="anaconda.svg" alt="Instagram Icon" width="45" height="45">
+                <img src="anaconda.svg" alt="Anaconda Icon" width="45" height="45">
               </a>
             </td>
             <td style="text-align: center;">
               <a href="https://www.linkedin.com/in/a7med-elgo7ary" target="_blank">
-                <img src="jupyter.svg" alt="Instagram Icon" width="45" height="45">
+                <img src="jupyter.svg" alt="Jupyter Icon" width="45" height="45">
               </a>
             </td>
             <td style="text-align: center;">
               <a href="https://www.linkedin.com/in/a7med-elgo7ary" target="_blank">
-                <img src="colab.png" alt="Instagram Icon" width="45" height="45">
+                <img src="colab.png" alt="Colab Icon" width="45" height="45">
               </a>
             </td>
           </tr>
