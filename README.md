@@ -63,7 +63,7 @@
 
 
 <details>
-<summary>My top languages</summary>
+<summary><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=10000&color=000000&center=true&vCenter=true&multiline=true&width=700&lines=Programing+Language+" alt="Typing SVG" /></a></summary>
 <table>
   <tr>
     <td style="text-align: center;">
