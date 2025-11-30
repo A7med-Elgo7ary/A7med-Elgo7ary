@@ -211,4 +211,8 @@
   </div>
 
 </div>
+<!--
+## 🔧 Technologies
+![skills](https://skillicons.dev/icons?i=py,c,cpp,js,dart,tensorflow,pytorch,opencv,sklearn,git,github,docker,kubernetes,mysql,azure,aws,gcp,linux,ubuntu,arch,mint&theme=light)
+-->
 
