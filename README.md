@@ -141,7 +141,6 @@
 <td style="text-align:center;"><a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"width="80" height="80"></a></td>  
 <td style="text-align:center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45" height="45"></td>
 <td style="text-align:center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45" height="45"></td>
-<td style="text-align:center;"><img src="https://avatars.githubusercontent.com/u/25720743?s=200&v=4" width="45" height="45"></td>
 <td style="text-align:center;"><img src="https://raw.githubusercontent.com/opencv/opencv/master/doc/opencv-logo2.png" width="45" height="45"></td>
 <td style="text-align:center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45" height="45"></td>
               <td style="text-align:center;"><a href="#"><img alt="YOLO" src="https://img.shields.io/badge/YOLO-%23000000.svg?logo=yolo&logoColor=white" width="100" height="100"></a></td>
@@ -159,8 +158,7 @@
 <td style="text-align:center;"><img src="https://avatars.githubusercontent.com/u/743164?s=200&v=4" width="45" height="45"></td>
 <td style="text-align:center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="45" height="45"></td>
 <td style="text-align:center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="45" height="45"></td>
-<td style="text-align:center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="45" height="45"></td>
-<td style="text-align:center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="45" height="45"></td>
+
 <td style="text-align:center;"><img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" width="45" height="45"></td>
             </tr>
           </table>
@@ -178,13 +176,13 @@
             <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=15&pause=2500&color=53C8FF&multiline=true&width=400&height=30&lines=+++Crafting+++intelligence+++and+shaping+++the+++unseen." alt="Typing SVG"/>
           </a>
           <table>
-            <tr>
+            <tr> 
+                  <td style="text-align:center;"><img src="https://avatars.githubusercontent.com/u/25720743?s=200&v=4" width="45" height="45"></td>
                   <td style="text-align:center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="45" height="45"></td>
-                  <td style="text-align:center;"><a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazonaws&logoColor=black" width="80" height="80"></a></td>
-                  <td style="text-align:center;"><a href="#"><img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=googlecloud&logoColor=white" width="100" height="100"></a></td>
-                  <td style="text-align:center;"><a href="#"><img alt="Databricks" src="https://img.shields.io/badge/Databricks-%23FF3621.svg?logo=databricks&logoColor=white" width="100" height="100"></a></td>
-                  <td style="text-align:center;"><a href="#"><img alt="Oracle Cloud Infrastructure" src="https://img.shields.io/badge/Oracle%20Cloud-%23F80000.svg?logo=oracle&logoColor=white" width="100" height="100"></a></td>
-                  <td style="text-align:center;"><a href="#"><img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-%23FFDD00.svg?logo=huggingface&logoColor=black" width="100" height="100"></a></td>
+                  <td style="text-align:center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="45" height="45"></td>
+                  <td><a href="https://www.linkedin.com/in/a7med-elgo7ary" target="_blank"><img src="amazon-web-services-3.svg" width="45" height="45"></a></td>
+                  <td style="text-align:center;"><a href="#"><img alt="Databricks" src="https://img.shields.io/badge/Databricks-%23FF3621.svg?logo=databricks&logoColor=white" width="120" height="120"></a></td>
+                  <td style="text-align:center;"><a href="#"><img alt="Oracle Cloud Infrastructure" src="https://img.shields.io/badge/Oracle%20Cloud-%23F80000.svg?logo=oracle&logoColor=white" width="120" height="120"></a></td>
             </tr>
           </table>
         </details>
@@ -196,62 +194,17 @@
 
 
 
+<br>
+<br>
+<br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=1000&pause=400&color=BFF749&center=true&vCenter=true&multiline=true&width=1000&height=40&lines=CONTINUE+%F0%9F%A4%8C)](https://www.linkedin.com/in/a7med-elgo7ary)
+<div align="Center">
+<h1>Operating Systems</h1>
+<img src="https://skillicons.dev/icons?i=windows,arch,linux,mint,ubuntu"/>
+</div>
 
+<br>
+<br>
 
+![snakkeee](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5)
 
-
-
-<!-- Badges Row -->
-<!--
-<p align="center">
-  <img src="https://img.shields.io/badge/stars-4.8k-brightgreen.svg" alt="Stars" />
-  <img src="https://img.shields.io/badge/license-Apache--2.0-blue.svg" alt="License" />
-  <img src="https://img.shields.io/badge/issues-22%20open-orange.svg" alt="Issues" />
-  <img src="https://img.shields.io/badge/forks-2k-blue.svg" alt="Forks" />
-  <img src="https://img.shields.io/badge/Vector%20search%20by-Qdrant-ff69b4.svg" alt="Qdrant" />
-</p>
--->
-
-<!-- Buttons Row -->
-<!--
-<p align="center">
-  <a href="https://discord.com/">
-    <img src="https://img.shields.io/badge/Join%20Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Join Discord" />
-  </a>
-  <a href="https://www.resumematcher.fyi/">
-    <img src="https://img.shields.io/badge/www.resumematcher.fyi-yellow?style=for-the-badge" alt="Resume Matcher" />
-  </a>
-  <a href="https://streamlit.io/">
-    <img src="https://img.shields.io/badge/Live%20Demo%20on%20Streamlit-FF2D20?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo on Streamlit" />
-  </a>
-</p>
--->
-
-<!-- Single Button Row -->
-<!--
-<p align="center">
-  <a href="https://docs.resumematcher.fyi/">
-    <img src="https://img.shields.io/badge/Checkout%20Resume%20Matcher%20Docs-red?style=for-the-badge" alt="Resume Matcher Docs" />
-  </a>
-</p>
--->
-
-<!-- Product Hunt Badge -->
-<!--
-<p align="center">
-  <a href="https://www.producthunt.com/posts/resume-matcher">
-    <img src="https://img.shields.io/badge/Product%20Hunt-red?style=for-the-badge&logo=product-hunt&logoColor=white" alt="Product Hunt" />
-  </a>
-</p>
--->
-
-
-
-
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=1000&pause=400&color=BFF749&center=true&vCenter=true&multiline=true&width=1000&height=40&lines=CONTINUE+%F0%9F%A4%8C)](https://www.linkedin.com/in/a7med-elgo7ary)
-
-<!-- Adjust appearance based on GitHub theme -->
