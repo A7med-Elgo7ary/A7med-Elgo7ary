@@ -44,7 +44,7 @@
         <img src="Email.svg" alt="Email Icon" width="60" height="60">
       </a>
       <br>
-       <a href="https://diamond-cymbal-f98.notion.site/833edfd7e627443dab51ca0a4e46e628?v=6cf75e7daeb5460a82fdb71a3be5dbd9" target="_blank">
+       <a href="https://a7med-elgo7ary.github.io/Ahmed-Elgohary/" target="_blank">
         <img src="web.svg" alt="website Icon" width="60" height="60">
       </a>
       <br>
@@ -184,7 +184,7 @@
         <details>
           <summary style="font-size: 20px; font-weight: bold;">
             <blockquote style="font-size: 50px; font-weight: bold; color:#123123;">
-              Programming Languages
+              Frameworks
             </blockquote>
           </summary>
           <a href="https://www.linkedin.com/in/a7med-elgo7ary">
@@ -194,27 +194,27 @@
             <tr>
               <td style="text-align: center;">
                 <a href="https://www.linkedin.com/in/a7med-elgo7ary">
-                  <img src="c++.svg" alt="LinkedIn Profile" width="45" height="45">
+                  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
                 </a>
               </td>
               <td style="text-align: center;">
                 <a href="https://www.linkedin.com/in/a7med-elgo7ary">
-                  <img src="c.svg" alt="Facebook Icon" width="45" height="45">
+                 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
                 </a>
               </td>
               <td style="text-align: center;">
                 <a href="https://www.linkedin.com/in/a7med-elgo7ary" target="_blank">
-                  <img src="python.svg" alt="YouTube Icon" width="45" height="45">
+                  ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
                 </a>
               </td>
               <td style="text-align: center;">
                 <a href="https://www.linkedin.com/in/a7med-elgo7ary" target="_blank">
-                  <img src="Dart.svg" alt="Instagram Icon" width="45" height="45">
+                   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
                 </a>
               </td>
               <td style="text-align: center;">
                 <a href="https://www.linkedin.com/in/a7med-elgo7ary" target="_blank">
-                  <img src="sql.svg" alt="Instagram Icon" width="45" height="45">
+                  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
                 </a>
               </td>
             </tr>
