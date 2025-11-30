@@ -137,7 +137,7 @@
             </blockquote>
           </summary>
           <a href="https://www.linkedin.com/in/a7med-elgo7ary">
-            <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=15&pause=2500&color=53C8FF&multiline=true&width=400&height=30&lines=+++shape+++and+++ mold+my+++code." />
+            <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=15&pause=2500&color=53C8FF&multiline=true&width=400&height=30&lines=+++shap+++and+++mold+my+++code." alt="Typing SVG"/>
           </a>
           <table>
             <tr>
