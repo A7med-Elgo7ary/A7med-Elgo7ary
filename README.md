@@ -109,6 +109,8 @@
           </a>
           <table>
             <tr>
+              <td style="text-align:center;"><img src="https://www.cursor.com/favicon.ico" width="45" height="45"></td>
+              <td style="text-align:center;"><img src="https://windsurf.ai/favicon.ico" width="45" height="45"></td>
               <td><a href="https://www.linkedin.com/in/a7med-elgo7ary"><img src="visual-studio-code-seeklogo.svg" width="45" height="45"></a></td>
               <td><a href="https://www.linkedin.com/in/a7med-elgo7ary"><img src="android-studioe.svg" width="45" height="45"></a></td>
               <td><a href="https://www.linkedin.com/in/a7med-elgo7ary" target="_blank"><img src="arduino.svg" width="45" height="45"></a></td>
@@ -131,35 +133,33 @@
             </blockquote>
           </summary>
           <a href="https://www.linkedin.com/in/a7med-elgo7ary">
-            <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=15&pause=2500&color=53C8FF&multiline=true&width=400&height=30&lines=+++Crafting+++intelligence+++and+shaping+++the+++unseen." alt="Typing SVG"/>
+            <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=15&pause=2500&color=53C8FF&multiline=true&width=450&height=30&lines=+++Crafting+++intelligence+++and+shaping+++the+++unseen." alt="Typing SVG"/>
           </a>
           <table>
             <tr>
-     <td style="text-align:center;"><a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"width="100" height="100"></a></td>  
-<td style="text-align:center;"><a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"width="100" height="100"></a></td>  
-<td style="text-align:center;"><a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"width="120" height="120"></a></td>  
-<td style="text-align:center;"><a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"width="80" height="80"></a></td>  
-<td style="text-align:center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45" height="45"></td>
-<td style="text-align:center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45" height="45"></td>
-<td style="text-align:center;"><img src="https://raw.githubusercontent.com/opencv/opencv/master/doc/opencv-logo2.png" width="45" height="45"></td>
-<td style="text-align:center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45" height="45"></td>
-              <td style="text-align:center;"><a href="#"><img alt="YOLO" src="https://img.shields.io/badge/YOLO-%23000000.svg?logo=yolo&logoColor=white" width="100" height="100"></a></td>
-<td style="text-align:center;"><a href="#"><img alt="Transformers" src="https://img.shields.io/badge/Transformers-%23FFDD00.svg?logo=huggingface&logoColor=black" width="100" height="100"></a></td>
-<td style="text-align:center;"><a href="#"><img alt="NLTK" src="https://img.shields.io/badge/NLTK-%230A7EBE.svg?logo=python&logoColor=white" width="100" height="100"></a></td>
-<td style="text-align:center;"><a href="#"><img alt="LangChain" src="https://img.shields.io/badge/LangChain-%23000000.svg?logo=chainlink&logoColor=white" width="100" height="100"></a></td>
-<td style="text-align:center;"><a href="#"><img alt="LlamaIndex" src="https://img.shields.io/badge/LlamaIndex-%23FF7A00.svg?logo=googlecolab&logoColor=white" width="100" height="100"></a></td>
-<td style="text-align:center;"><a href="#"><img alt="MLflow" src="https://img.shields.io/badge/MLflow-%230077B5.svg?logo=mlflow&logoColor=white" width="100" height="100"></a></td>
-<td style="text-align:center;"><a href="#"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-%23009688.svg?logo=fastapi&logoColor=white" width="100" height="100"></a></td>
-<td style="text-align:center;"><a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-%23000000.svg?logo=flask&logoColor=white" width="100" height="100"></a></td>
-<td style="text-align:center;"><a href="#"><img alt="ADK" src="https://img.shields.io/badge/ADK-%23FF5733.svg?logo=google&logoColor=white" width="100" height="100"></a></td>
-<td style="text-align:center;"><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="45" height="45"></td>
-<td style="text-align:center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45"></td>
-<td style="text-align:center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="45" height="45"></td>
-<td style="text-align:center;"><img src="https://avatars.githubusercontent.com/u/743164?s=200&v=4" width="45" height="45"></td>
-<td style="text-align:center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="45" height="45"></td>
-<td style="text-align:center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="45" height="45"></td>
-
-<td style="text-align:center;"><img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" width="45" height="45"></td>
+                <td style="text-align:center;"><a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"width="100" height="100"></a></td>  
+                <td style="text-align:center;"><a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"width="100" height="100"></a></td>  
+                <td style="text-align:center;"><a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"width="120" height="120"></a></td>  
+                <td style="text-align:center;"><a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"width="80" height="80"></a></td>  
+                <td style="text-align:center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45" height="45"></td>
+                <td style="text-align:center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45" height="45"></td>
+                <td style="text-align:center;"><img src="https://raw.githubusercontent.com/opencv/opencv/master/doc/opencv-logo2.png" width="45" height="45"></td>
+                <td style="text-align:center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45" height="45"></td>
+                <td style="text-align:center;"><a href="#"><img alt="YOLO" src="https://img.shields.io/badge/YOLO-%23000000.svg?logo=yolo&logoColor=white" width="100" height="100"></a></td>
+                <td style="text-align:center;"><a href="#"><img alt="Transformers" src="https://img.shields.io/badge/Transformers-%23FFDD00.svg?logo=huggingface&logoColor=black" width="100" height="100"></a></td>
+                <td style="text-align:center;"><a href="#"><img alt="NLTK" src="https://img.shields.io/badge/NLTK-%230A7EBE.svg?logo=python&logoColor=white" width="100" height="100"></a></td>
+                <td style="text-align:center;"><a href="#"><img alt="LangChain" src="https://img.shields.io/badge/LangChain-%23000000.svg?logo=chainlink&logoColor=white" width="100" height="100"></a></td>
+               <td style="text-align:center;"><a href="#"><img alt="LlamaIndex" src="https://img.shields.io/badge/LlamaIndex-%23FF7A00.svg?logo=googlecolab&logoColor=white" width="100" height="100"></a></td>
+               <td style="text-align:center;"><a href="#"><img alt="MLflow" src="https://img.shields.io/badge/MLflow-%230077B5.svg?logo=mlflow&logoColor=white" width="100" height="100"></a></td>
+               <td style="text-align:center;"><a href="#"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-%23009688.svg?logo=fastapi&logoColor=white" width="100" height="100"></a></td>
+               <td style="text-align:center;"><a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-%23000000.svg?logo=flask&logoColor=white" width="100" height="100"></a></td>
+               <td style="text-align:center;"><a href="#"><img alt="ADK" src="https://img.shields.io/badge/ADK-%23FF5733.svg?logo=google&logoColor=white" width="100" height="100"></a></td>
+              <td style="text-align:center;"><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="45" height="45"></td>
+              <td style="text-align:center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45"></td>
+              <td style="text-align:center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="45" height="45"></td>
+               <td style="text-align:center;"><img src="https://avatars.githubusercontent.com/u/743164?s=200&v=4" width="45" height="45"></td>
+               <td style="text-align:center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="45" height="45"></td>
+              <td style="text-align:center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="45" height="45"></td>
             </tr>
           </table>
         </details>
@@ -173,7 +173,7 @@
             </blockquote>
           </summary>
           <a href="https://www.linkedin.com/in/a7med-elgo7ary">
-            <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=15&pause=2500&color=53C8FF&multiline=true&width=400&height=30&lines=+++Crafting+++intelligence+++and+shaping+++the+++unseen." alt="Typing SVG"/>
+              <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=15&pause=2500&color=53C8FF&multiline=true&width=600&height=30&lines=+++Uploading+++my+++chaos+++to+++the+++cloud+++so+++it's+++everyone's+problem+now." alt="Typing SVG"/>
           </a>
           <table>
             <tr> 
@@ -195,16 +195,20 @@
 
 
 <br>
-<br>
-<br>
 
-<div align="Center">
-<h1>Operating Systems</h1>
-<img src="https://skillicons.dev/icons?i=windows,arch,linux,mint,ubuntu"/>
+
+
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  
+  <div align="center">
+    <h1>Operating Systems</h1>
+    <img src="https://skillicons.dev/icons?i=windows,linux,kali,ubuntu,arch"/>
+  </div>
+
+  <div align="center">
+    <img src="https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5" width="800">
+  </div>
+
 </div>
-
-<br>
-<br>
-
-![snakkeee](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5)
 
