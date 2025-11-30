@@ -127,42 +127,64 @@
         <details>
           <summary style="font-size: 20px; font-weight: bold;">
             <blockquote style="font-size: 50px; font-weight: bold; color:#123123;">
-              Frameworks
+              Frameworks & Libraries 
             </blockquote>
           </summary>
           <a href="https://www.linkedin.com/in/a7med-elgo7ary">
-            <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=15&pause=2500&color=53C8FF&multiline=true&width=400&height=30&lines=+++Thinking+++Imagining+++coffee+mixing+++coding." alt="Typing SVG"/>
+            <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=15&pause=2500&color=53C8FF&multiline=true&width=400&height=30&lines=+++Crafting+++intelligence+++and+shaping+++the+++unseen." alt="Typing SVG"/>
           </a>
           <table>
             <tr>
-              <td style="text-align:center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45"></td>
-<td style="text-align:center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45"></td>
+     <td style="text-align:center;"><a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"width="100" height="100"></a></td>  
+<td style="text-align:center;"><a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"width="100" height="100"></a></td>  
+<td style="text-align:center;"><a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"width="120" height="120"></a></td>  
+<td style="text-align:center;"><a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"width="80" height="80"></a></td>  
 <td style="text-align:center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45" height="45"></td>
-<td style="text-align:center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg" width="45" height="45"></td>
-<td style="text-align:center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45" height="45"></td>
 <td style="text-align:center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45" height="45"></td>
-<td style="text-align:center;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" width="45" height="45"></td>
-<td style="text-align:center;"><img src="https://avatars.githubusercontent.com/u/21003710?s=200&v=4" width="45" height="45"></td>
-<td style="text-align:center;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"></td>
-<td style="text-align:center;"><img src="https://cdn.jsdelivr.net/gh/huggingface/brand@main/hf-logo.svg" width="45" height="45"></td>
 <td style="text-align:center;"><img src="https://avatars.githubusercontent.com/u/25720743?s=200&v=4" width="45" height="45"></td>
 <td style="text-align:center;"><img src="https://raw.githubusercontent.com/opencv/opencv/master/doc/opencv-logo2.png" width="45" height="45"></td>
-<td style="text-align:center;"><img src="https://avatars.githubusercontent.com/u/114424828?s=200&v=4" width="45" height="45"></td>
 <td style="text-align:center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45" height="45"></td>
+              <td style="text-align:center;"><a href="#"><img alt="YOLO" src="https://img.shields.io/badge/YOLO-%23000000.svg?logo=yolo&logoColor=white" width="100" height="100"></a></td>
+<td style="text-align:center;"><a href="#"><img alt="Transformers" src="https://img.shields.io/badge/Transformers-%23FFDD00.svg?logo=huggingface&logoColor=black" width="100" height="100"></a></td>
+<td style="text-align:center;"><a href="#"><img alt="NLTK" src="https://img.shields.io/badge/NLTK-%230A7EBE.svg?logo=python&logoColor=white" width="100" height="100"></a></td>
+<td style="text-align:center;"><a href="#"><img alt="LangChain" src="https://img.shields.io/badge/LangChain-%23000000.svg?logo=chainlink&logoColor=white" width="100" height="100"></a></td>
+<td style="text-align:center;"><a href="#"><img alt="LlamaIndex" src="https://img.shields.io/badge/LlamaIndex-%23FF7A00.svg?logo=googlecolab&logoColor=white" width="100" height="100"></a></td>
+<td style="text-align:center;"><a href="#"><img alt="MLflow" src="https://img.shields.io/badge/MLflow-%230077B5.svg?logo=mlflow&logoColor=white" width="100" height="100"></a></td>
+<td style="text-align:center;"><a href="#"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-%23009688.svg?logo=fastapi&logoColor=white" width="100" height="100"></a></td>
+<td style="text-align:center;"><a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-%23000000.svg?logo=flask&logoColor=white" width="100" height="100"></a></td>
+<td style="text-align:center;"><a href="#"><img alt="ADK" src="https://img.shields.io/badge/ADK-%23FF5733.svg?logo=google&logoColor=white" width="100" height="100"></a></td>
 <td style="text-align:center;"><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="45" height="45"></td>
-<td style="text-align:center;"><img src="https://avatars.githubusercontent.com/u/8133479?s=200&v=4" width="45" height="45"></td>
-<td style="text-align:center;"><img src="https://raw.githubusercontent.com/mlflow/mlflow/master/docs/source/_static/mlflow-logo.png" width="45" height="45"></td>
-<td style="text-align:center;"><img src="https://cdn.jsdelivr.net/gh/iterative/dvc.org@master/static/img/logo.svg" width="45" height="45"></td>
 <td style="text-align:center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45"></td>
 <td style="text-align:center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="45" height="45"></td>
 <td style="text-align:center;"><img src="https://avatars.githubusercontent.com/u/743164?s=200&v=4" width="45" height="45"></td>
-<td style="text-align:center;"><img src="https://avatars.githubusercontent.com/u/54878194?s=200&v=4" width="45" height="45"></td>
-<td style="text-align:center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="45" height="45"></td>
 <td style="text-align:center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="45" height="45"></td>
 <td style="text-align:center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="45" height="45"></td>
 <td style="text-align:center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="45" height="45"></td>
 <td style="text-align:center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="45" height="45"></td>
 <td style="text-align:center;"><img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" width="45" height="45"></td>
+            </tr>
+          </table>
+        </details>
+      </td>
+      <!-- Cloud & Development Platforms -->
+      <td>
+        <details>
+          <summary style="font-size: 20px; font-weight: bold;">
+            <blockquote style="font-size: 50px; font-weight: bold; color:#123123;">
+              Cloud & Development Platforms
+            </blockquote>
+          </summary>
+          <a href="https://www.linkedin.com/in/a7med-elgo7ary">
+            <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=15&pause=2500&color=53C8FF&multiline=true&width=400&height=30&lines=+++Crafting+++intelligence+++and+shaping+++the+++unseen." alt="Typing SVG"/>
+          </a>
+          <table>
+            <tr>
+                  <td style="text-align:center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="45" height="45"></td>
+                  <td style="text-align:center;"><a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazonaws&logoColor=black" width="80" height="80"></a></td>
+                  <td style="text-align:center;"><a href="#"><img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=googlecloud&logoColor=white" width="100" height="100"></a></td>
+                  <td style="text-align:center;"><a href="#"><img alt="Databricks" src="https://img.shields.io/badge/Databricks-%23FF3621.svg?logo=databricks&logoColor=white" width="100" height="100"></a></td>
+                  <td style="text-align:center;"><a href="#"><img alt="Oracle Cloud Infrastructure" src="https://img.shields.io/badge/Oracle%20Cloud-%23F80000.svg?logo=oracle&logoColor=white" width="100" height="100"></a></td>
+                  <td style="text-align:center;"><a href="#"><img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-%23FFDD00.svg?logo=huggingface&logoColor=black" width="100" height="100"></a></td>
             </tr>
           </table>
         </details>
