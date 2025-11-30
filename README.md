@@ -44,7 +44,7 @@
         <img src="Email.svg" alt="Email Icon" width="60" height="60">
       </a>
       <br>
-       <a href="https://a7med-elgo7ary.github.io/Ahmed-Elgohary/" target="_blank">
+      <a href="https://a7med-elgo7ary.github.io/Ahmed-Elgohary/" target="_blank">
         <img src="web.svg" alt="website Icon" width="60" height="60">
       </a>
       <br>
@@ -59,23 +59,10 @@
 
 
 
-
-
-
 <blockquote style="font-size: 50px; font-weight: bold; color:#123123;">
    If We Pull Together And Commit Ourselves, Then We Can Push Through Anything.
 </blockquote>
-
-
-
-
-
 <br>
-
-
-
-
-
 
 
 
@@ -88,6 +75,7 @@
   </summary>
   <table>
     <tr>
+      <!-- Programming Languages -->
       <td>
         <details>
           <summary style="font-size: 20px; font-weight: bold;">
@@ -100,35 +88,15 @@
           </a>
           <table>
             <tr>
-              <td style="text-align: center;">
-                <a href="https://www.linkedin.com/in/a7med-elgo7ary">
-                  <img src="c++.svg" alt="LinkedIn Profile" width="45" height="45">
-                </a>
-              </td>
-              <td style="text-align: center;">
-                <a href="https://www.linkedin.com/in/a7med-elgo7ary">
-                  <img src="c.svg" alt="Facebook Icon" width="45" height="45">
-                </a>
-              </td>
-              <td style="text-align: center;">
-                <a href="https://www.linkedin.com/in/a7med-elgo7ary" target="_blank">
-                  <img src="python.svg" alt="YouTube Icon" width="45" height="45">
-                </a>
-              </td>
-              <td style="text-align: center;">
-                <a href="https://www.linkedin.com/in/a7med-elgo7ary" target="_blank">
-                  <img src="Dart.svg" alt="Instagram Icon" width="45" height="45">
-                </a>
-              </td>
-              <td style="text-align: center;">
-                <a href="https://www.linkedin.com/in/a7med-elgo7ary" target="_blank">
-                  <img src="sql.svg" alt="Instagram Icon" width="45" height="45">
-                </a>
-              </td>
-            </tr>
+              <td style="text-align: center;"><a href="https://www.linkedin.com/in/a7med-elgo7ary"> <img src="c++.svg" width="45" height="45"> </a> </td>
+              <td style="text-align: center;"><a href="https://www.linkedin.com/in/a7med-elgo7ary"> <img src="c.svg" width="45" height="45"></a></td>
+              <td style="text-align: center;"><a href="https://www.linkedin.com/in/a7med-elgo7ary" target="_blank"> <img src="python.svg" width="45" height="45"></a></td>
+              <td style="text-align: center;"><a href="https://www.linkedin.com/in/a7med-elgo7ary" target="_blank">  <img src="Dart.svg" width="45" height="45"></a></td>
+              <td style="text-align: center;"><a href="https://www.linkedin.com/in/a7med-elgo7ary" target="_blank"><img src="sql.svg" width="45" height="45"></a></td></tr>
           </table>
         </details>
       </td>
+      <!-- IDE Software -->
       <td>
         <details>
           <summary style="font-size: 20px; font-weight: bold;">
@@ -141,45 +109,20 @@
           </a>
           <table>
             <tr>
-              <td style="text-align: center;">
-                <a href="https://www.linkedin.com/in/a7med-elgo7ary">
-                  <img src="visual-studio-code-seeklogo.svg" alt="VS code" width="45" height="45">
-                </a>
-              </td>
-              <td style="text-align: center;">
-                <a href="https://www.linkedin.com/in/a7med-elgo7ary">
-                  <img src="android-studioe.svg" alt="Android studio Icon" width="45" height="45">
-                </a>
-              </td>
-              <td style="text-align: center;">
-                <a href="https://www.linkedin.com/in/a7med-elgo7ary" target="_blank">
-                  <img src="arduino.svg" alt="Arduino Icon" width="45" height="45">
-                </a>
-              </td>
-              <td style="text-align: center;">
-                <a href="https://www.linkedin.com/in/a7med-elgo7ary" target="_blank">
-                  <img src="mch.avif" alt="micrichip Icon" width="45" height="45">
-                </a>
-              </td>
-              <td style="text-align: center;">
-                <a href="https://www.linkedin.com/in/a7med-elgo7ary" target="_blank">
-                  <img src="anaconda.svg" alt="Anaconda Icon" width="45" height="45">
-                </a>
-              </td>
-              <td style="text-align: center;">
-                <a href="https://www.linkedin.com/in/a7med-elgo7ary" target="_blank">
-                  <img src="jupyter.svg" alt="Jupyter Icon" width="45" height="45">
-                </a>
-              </td>
-              <td style="text-align: center;">
-                <a href="https://www.linkedin.com/in/a7med-elgo7ary" target="_blank">
-                  <img src="colab.png" alt="Colab Icon" width="45" height="45">
-                </a>
-              </td>
+              <td><a href="https://www.linkedin.com/in/a7med-elgo7ary"><img src="visual-studio-code-seeklogo.svg" width="45" height="45"></a></td>
+              <td><a href="https://www.linkedin.com/in/a7med-elgo7ary"><img src="android-studioe.svg" width="45" height="45"></a></td>
+              <td><a href="https://www.linkedin.com/in/a7med-elgo7ary" target="_blank"><img src="arduino.svg" width="45" height="45"></a></td>
+              <td><a href="https://www.linkedin.com/in/a7med-elgo7ary" target="_blank"><img src="mch.avif" width="45" height="45"></a></td>
+              <td><a href="https://www.linkedin.com/in/a7med-elgo7ary" target="_blank"><img src="anaconda.svg" width="45" height="45"></a></td>
+              <td><a href="https://www.linkedin.com/in/a7med-elgo7ary" target="_blank"><img src="jupyter.svg" width="45" height="45"></a></td>
+              <td><a href="https://www.linkedin.com/in/a7med-elgo7ary" target="_blank"><img src="colab.png" width="45" height="45"></a></td>
+              <td style="text-align:center;"><a href="https://www.linkedin.com/in/a7med-elgo7ary"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"></a></td>
+              <td style="text-align:center;"><a href="https://www.linkedin.com/in/a7med-elgo7ary"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45"></a></td>
             </tr>
           </table>
         </details>
       </td>
+      <!-- Frameworks -->
       <td>
         <details>
           <summary style="font-size: 20px; font-weight: bold;">
@@ -192,41 +135,34 @@
           </a>
           <table>
             <tr>
-              <td style="text-align: center;">
-                <a href="https://www.linkedin.com/in/a7med-elgo7ary">
-                  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-                </a>
-              </td>
-              <td style="text-align: center;">
-                <a href="https://www.linkedin.com/in/a7med-elgo7ary">
-                 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-                </a>
-              </td>
-              <td style="text-align: center;">
-                <a href="https://www.linkedin.com/in/a7med-elgo7ary" target="_blank">
-                  ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
-                </a>
-              </td>
-              <td style="text-align: center;">
-                <a href="https://www.linkedin.com/in/a7med-elgo7ary" target="_blank">
-                   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-                </a>
-              </td>
-              <td style="text-align: center;">
-                <a href="https://www.linkedin.com/in/a7med-elgo7ary" target="_blank">
-                  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-                </a>
-              </td>
-              <td style="text-align: center;">
-                <br>
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-<br>
-                </a>
-              </td>
+              <td style="text-align:center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45"></td>
+<td style="text-align:center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45"></td>
+<td style="text-align:center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45" height="45"></td>
+<td style="text-align:center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg" width="45" height="45"></td>
+<td style="text-align:center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45" height="45"></td>
+<td style="text-align:center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45" height="45"></td>
+<td style="text-align:center;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" width="45" height="45"></td>
+<td style="text-align:center;"><img src="https://avatars.githubusercontent.com/u/21003710?s=200&v=4" width="45" height="45"></td>
+<td style="text-align:center;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"></td>
+<td style="text-align:center;"><img src="https://cdn.jsdelivr.net/gh/huggingface/brand@main/hf-logo.svg" width="45" height="45"></td>
+<td style="text-align:center;"><img src="https://avatars.githubusercontent.com/u/25720743?s=200&v=4" width="45" height="45"></td>
+<td style="text-align:center;"><img src="https://raw.githubusercontent.com/opencv/opencv/master/doc/opencv-logo2.png" width="45" height="45"></td>
+<td style="text-align:center;"><img src="https://avatars.githubusercontent.com/u/114424828?s=200&v=4" width="45" height="45"></td>
+<td style="text-align:center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45" height="45"></td>
+<td style="text-align:center;"><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="45" height="45"></td>
+<td style="text-align:center;"><img src="https://avatars.githubusercontent.com/u/8133479?s=200&v=4" width="45" height="45"></td>
+<td style="text-align:center;"><img src="https://raw.githubusercontent.com/mlflow/mlflow/master/docs/source/_static/mlflow-logo.png" width="45" height="45"></td>
+<td style="text-align:center;"><img src="https://cdn.jsdelivr.net/gh/iterative/dvc.org@master/static/img/logo.svg" width="45" height="45"></td>
+<td style="text-align:center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45"></td>
+<td style="text-align:center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="45" height="45"></td>
+<td style="text-align:center;"><img src="https://avatars.githubusercontent.com/u/743164?s=200&v=4" width="45" height="45"></td>
+<td style="text-align:center;"><img src="https://avatars.githubusercontent.com/u/54878194?s=200&v=4" width="45" height="45"></td>
+<td style="text-align:center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="45" height="45"></td>
+<td style="text-align:center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="45" height="45"></td>
+<td style="text-align:center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="45" height="45"></td>
+<td style="text-align:center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="45" height="45"></td>
+<td style="text-align:center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="45" height="45"></td>
+<td style="text-align:center;"><img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" width="45" height="45"></td>
             </tr>
           </table>
         </details>
@@ -239,10 +175,7 @@
 
 
 
-
-
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=1000&pause=400&color=BFF749&center=true&vCenter=true&multiline=true&width=1000&height=40&lines=CONTINUE+%F0%9F%A4%8C)](https://www.linkedin.com/in/a7med-elgo7ary)
 
 
 
